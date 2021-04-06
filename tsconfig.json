@@ -15,14 +15,11 @@
     "jsx": "preserve",
     "baseUrl": "./",
     "paths": {
-      "@/*": ["src/*"]
+      "@/*": ["./*"]
     }
   },
   "include": [
-    "next-env.d.ts",
-    "pages/**/*.ts",
-    "pages/**/*.tsx",
-    "src/**/*.ts",
-    "src/**/*.tsx"
+    "**/*.ts",
+    "**/*.tsx"
   ]
 }
