@@ -27,6 +27,11 @@ npm start
 yarn start
 ```
 
+## 基本特性
+- [x] 支持TypeScript
+- [ ] 支持ESLint
+- [ ] 支持CommitLint
+
 ## 文档说明
 - [文件目录](docs/文件目录.md)
 - [api代理设置](docs/api代理设置.md)
