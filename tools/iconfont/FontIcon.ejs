@@ -1,0 +1,16 @@
+import { createFromIconfontCN } from '@ant-design/icons/lib'
+import { IconBaseProps } from '@ant-design/icons/lib/components/Icon'
+
+// eslint-disable-next-line
+export type FontIconType = <%- fontIconTypes %>
+
+interface FontIconProps extends Omit<IconBaseProps, 'type'> {
+  type: FontIconType
+}
+
+const FontIcon = createFromIconfontCN({
+  // eslint-disable-next-line
+  scriptUrl: '/assets/fonts/<%- fontsFilename %>' // 在 iconfont.cn 上生成
+}) as React.FC<FontIconProps>
+
+export default FontIcon
