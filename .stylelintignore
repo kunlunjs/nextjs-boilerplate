@@ -1,0 +1,10 @@
+*.js
+**/*.js
+**/*.jsx
+**/*.tsx
+**/*.ts
+node_modules/**/*
+assets/**/*'
+dist/**/*'
+@types/**/*
+
