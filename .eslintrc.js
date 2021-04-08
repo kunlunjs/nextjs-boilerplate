@@ -9,7 +9,7 @@ module.exports = {
   extends: [
     'plugin:@typescript-eslint/eslint-recommended',
     'plugin:@typescript-eslint/recommended',
-    'prettier'
+    'plugin:prettier/recommended'
     // 'plugin:jest/recommended'
     // deprecated https://github.com/prettier/eslint-config-prettier/blob/main/CHANGELOG.md
     // 'prettier/@typescript-eslint'
