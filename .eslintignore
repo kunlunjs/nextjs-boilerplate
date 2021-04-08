@@ -1,0 +1,9 @@
+node_modules
+.husky
+.next
+
+# ts typing files
+**/*.d.ts
+
+# doc files
+docs

@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "prepare": "husky install",
+    "lint": "eslint . --ext js,jsx,ts,tsx",
     "husky:pre-commit": "lint-staged",
     "husky:prepare-commit-msg": "devmoji -e --lint",
     "start": "next start"

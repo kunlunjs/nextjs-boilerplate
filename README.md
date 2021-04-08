@@ -29,7 +29,7 @@ yarn start
 
 ## 基本特性
 - [x] 支持TypeScript
-- [ ] 支持ESLint
+- [x] 支持ESLint
 - [ ] 支持CommitLint
 
 ## 文档说明
