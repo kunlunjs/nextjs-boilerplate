@@ -33,6 +33,7 @@ yarn start
 - [x] 支持CommitLint
 - [x] 集成tailwindcss
 - [x] 支持less
+- [x] 支持Antd
 
 ## 文档说明
 - [文件目录](docs/文件目录.md)

@@ -13,6 +13,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "antd": "^4.15.0",
     "http-proxy": "^1.18.1",
     "next": "10.1.2",
     "react": "17.0.2",
