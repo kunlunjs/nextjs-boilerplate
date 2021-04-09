@@ -5,6 +5,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "i18n:extract": "formatjs extract '**/*.{js,ts,tsx}'  --ignore 'node_modules/**,**/*.d.ts' --id-interpolation-pattern '[sha512:contenthash:base64:6]' --out-file lang/en-US.json",
+    "i18n:compile": "formatjs compile-folder --ast lang/ locales/",
+    "i18n:build": "npm run i18n:extract && npm run i18n:compile",
     "gen:font": "node tools/iconfont/index.js",
     "prepare": "husky install",
     "lint": "eslint . --ext js,jsx,ts,tsx",
@@ -13,11 +16,22 @@
     "start": "next start"
   },
   "dependencies": {
+    "@formatjs/cli": "^4.2.6",
+    "@formatjs/intl-datetimeformat": "^3.3.1",
+    "@formatjs/intl-getcanonicallocales": "^1.5.8",
+    "@formatjs/intl-numberformat": "^6.2.5",
+    "@formatjs/intl-pluralrules": "^4.0.13",
+    "@formatjs/intl-relativetimeformat": "^8.1.4",
+    "@hapi/accept": "^5.0.2",
     "antd": "^4.15.0",
+    "dayjs": "^1.10.4",
     "http-proxy": "^1.18.1",
     "next": "10.1.2",
+    "nprogress": "^0.2.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
+    "react-helmet": "^6.1.0",
+    "react-intl": "^5.15.7",
     "typescript": "^4.2.4"
   },
   "devDependencies": {

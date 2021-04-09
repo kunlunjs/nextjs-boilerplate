@@ -1,0 +1,2722 @@
+{
+  "+IhtdU": [
+    {
+      "type": 0,
+      "value": "Followers"
+    }
+  ],
+  "+M/wSi": [
+    {
+      "type": 0,
+      "value": "We have sent a reset email to you, please checkout the email and reset your password!"
+    }
+  ],
+  "+RY/Pz": [
+    {
+      "type": 0,
+      "value": "All Comments"
+    }
+  ],
+  "+sDjWh": [
+    {
+      "type": 0,
+      "value": "Name of Conference"
+    }
+  ],
+  "+tHIyB": [
+    {
+      "type": 0,
+      "value": "Life & Health"
+    }
+  ],
+  "+tHkds": [
+    {
+      "type": 0,
+      "value": "Cases"
+    }
+  ],
+  "/026fx": [
+    {
+      "type": 0,
+      "value": "Send Reset Instructions"
+    }
+  ],
+  "/4Df3f": [
+    {
+      "type": 0,
+      "value": "Post case"
+    }
+  ],
+  "/UGapp": [
+    {
+      "type": 0,
+      "value": "Required!"
+    }
+  ],
+  "/WQkaq": [
+    {
+      "type": 0,
+      "value": "Your case 《"
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": "》 is not approved. (Reason: "
+    },
+    {
+      "type": 1,
+      "value": "reason"
+    },
+    {
+      "type": 0,
+      "value": ")"
+    }
+  ],
+  "/bXIbp": [
+    {
+      "type": 0,
+      "value": "No answer yet"
+    }
+  ],
+  "/kthuD": [
+    {
+      "type": 0,
+      "value": "Following"
+    }
+  ],
+  "/ndlzC": [
+    {
+      "type": 0,
+      "value": "Are you sure to delete the case?"
+    }
+  ],
+  "/ohD66": [
+    {
+      "type": 0,
+      "value": "Life and health is aiming at creating an ecosystem which combines all aspects of life and health such as hospitals, medical service institutions, medical devices, medical insurance, investment institutions, IT and Internet, artificial intelligence, medical big data, food health, and other related fields."
+    }
+  ],
+  "/psHws": [
+    {
+      "type": 0,
+      "value": "Posted event"
+    }
+  ],
+  "05PSyy": [
+    {
+      "type": 0,
+      "value": "Reply"
+    }
+  ],
+  "08HRCr": [
+    {
+      "type": 0,
+      "value": "Last Name"
+    }
+  ],
+  "0bjrSw": [
+    {
+      "type": 0,
+      "value": "Conference Link"
+    }
+  ],
+  "0jPX/s": [
+    {
+      "type": 0,
+      "value": "Invitee's Details"
+    }
+  ],
+  "1Hx3kC": [
+    {
+      "type": 0,
+      "value": "All"
+    }
+  ],
+  "1NK5K1": [
+    {
+      "type": 0,
+      "value": "Email"
+    }
+  ],
+  "1Znp0s": [
+    {
+      "type": 0,
+      "value": "Content"
+    }
+  ],
+  "1ml/EY": [
+    {
+      "type": 0,
+      "value": "All"
+    }
+  ],
+  "2HqxSs": [
+    {
+      "type": 0,
+      "value": "Case"
+    }
+  ],
+  "2fp/qw": [
+    {
+      "type": 0,
+      "value": "Vote"
+    }
+  ],
+  "2rbuwC": [
+    {
+      "type": 0,
+      "value": "Conferences"
+    }
+  ],
+  "2yXpU1": [
+    {
+      "type": 0,
+      "value": "Edit"
+    }
+  ],
+  "3/5X0t": [
+    {
+      "type": 0,
+      "value": "Explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation"
+    }
+  ],
+  "3C0Zwg": [
+    {
+      "type": 0,
+      "value": "reward with "
+    },
+    {
+      "type": 1,
+      "value": "reward_point"
+    },
+    {
+      "type": 0,
+      "value": " points"
+    }
+  ],
+  "3Hmqn2": [
+    {
+      "type": 0,
+      "value": "First name"
+    }
+  ],
+  "3qqwym": [
+    {
+      "type": 0,
+      "value": "Add a choice"
+    }
+  ],
+  "3tb7Cn": [
+    {
+      "type": 0,
+      "value": "Enter Fee"
+    }
+  ],
+  "3wAk66": [
+    {
+      "type": 0,
+      "value": "Name of Exhibition"
+    }
+  ],
+  "3zatpE": [
+    {
+      "type": 0,
+      "value": "Sorry, Server error"
+    }
+  ],
+  "4jpwjp": [
+    {
+      "type": 0,
+      "value": "Explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation"
+    }
+  ],
+  "4vz01f": [
+    {
+      "type": 0,
+      "value": "Consumer"
+    }
+  ],
+  "55DMY8": [
+    {
+      "type": 0,
+      "value": "Post Case"
+    }
+  ],
+  "5cJDQD": [
+    {
+      "type": 0,
+      "value": "Location"
+    }
+  ],
+  "64grYo": [
+    {
+      "type": 0,
+      "value": "Results for "
+    },
+    {
+      "type": 1,
+      "value": "key"
+    }
+  ],
+  "674XCY": [
+    {
+      "type": 0,
+      "value": "Post Case"
+    }
+  ],
+  "6OedlY": [
+    {
+      "type": 0,
+      "value": "Invite Friends"
+    }
+  ],
+  "6PdOcy": [
+    {
+      "type": 0,
+      "value": "Cancel"
+    }
+  ],
+  "6Y5NZ5": [
+    {
+      "type": 0,
+      "value": "Add a introduction image"
+    }
+  ],
+  "6eVfHN": [
+    {
+      "type": 0,
+      "value": "Upload Files"
+    }
+  ],
+  "6qHuLh": [
+    {
+      "type": 0,
+      "value": "Would you like to pay 15 points for this case?"
+    }
+  ],
+  "6s6tGF": [
+    {
+      "type": 0,
+      "value": "Urban Governance"
+    }
+  ],
+  "7/q2L9": [
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " Events"
+    }
+  ],
+  "7C/JOI": [
+    {
+      "type": 0,
+      "value": "News"
+    }
+  ],
+  "7EAYKE": [
+    {
+      "type": 0,
+      "value": "Your vote is approved"
+    }
+  ],
+  "7MEpkn": [
+    {
+      "type": 0,
+      "value": "Explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation"
+    }
+  ],
+  "7SYsod": [
+    {
+      "type": 0,
+      "value": "Unused"
+    }
+  ],
+  "7aUrTH": [
+    {
+      "type": 0,
+      "value": "submit"
+    }
+  ],
+  "8ITop1": [
+    {
+      "type": 0,
+      "value": "Points Mall"
+    }
+  ],
+  "8YYJl+": [
+    {
+      "type": 0,
+      "value": "The event 《"
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": "》 is approved."
+    }
+  ],
+  "8ZZnvo": [
+    {
+      "type": 0,
+      "value": "In response to the needs of smart urban construction, Intelligent transportation is aiming at promoting an information management and efficient decision-making of comprehensive transportation, by the construction of intelligent infrastructure, transportation, transit dispatching and command, traffic management, harbor and shipping administration, and road management."
+    }
+  ],
+  "8q/yFf": [
+    {
+      "type": 0,
+      "value": "Spaces"
+    }
+  ],
+  "8xMqCo": [
+    {
+      "type": 0,
+      "value": "Failure"
+    }
+  ],
+  "9+7UZM": [
+    {
+      "type": 0,
+      "value": "Comment"
+    }
+  ],
+  "9+dGwA": [
+    {
+      "type": 0,
+      "value": "Step2"
+    }
+  ],
+  "92/9Kc": [
+    {
+      "type": 0,
+      "value": "Upvotes"
+    }
+  ],
+  "938TD5": [
+    {
+      "type": 0,
+      "value": "Audit Result"
+    }
+  ],
+  "98+O9z": [
+    {
+      "type": 0,
+      "value": "Upvote"
+    }
+  ],
+  "9A05ZH": [
+    {
+      "type": 0,
+      "value": "Scientists have shed light on how immune cells navigate to the lymph nodes, where they help to fight off harmful bacteria and viruses.The study"
+    }
+  ],
+  "9Axhj8": [
+    {
+      "type": 0,
+      "value": "Your answer is approved"
+    }
+  ],
+  "9WjpQx": [
+    {
+      "type": 0,
+      "value": "All"
+    }
+  ],
+  "9boGoC": [
+    {
+      "type": 0,
+      "value": "Enter the email address you used when you joined and we’ll send you instructions to reset your password"
+    }
+  ],
+  "9byXME": [
+    {
+      "type": 0,
+      "value": "answer question success"
+    }
+  ],
+  "9kK9sF": [
+    {
+      "type": 0,
+      "value": "Detail"
+    }
+  ],
+  "9yDGYi": [
+    {
+      "type": 0,
+      "value": "Topics"
+    }
+  ],
+  "AVncO+": [
+    {
+      "type": 0,
+      "value": "News Detail"
+    }
+  ],
+  "AaWkEz": [
+    {
+      "type": 0,
+      "value": "now"
+    }
+  ],
+  "AchCCh": [
+    {
+      "type": 0,
+      "value": "Introduce yourself briefly"
+    }
+  ],
+  "AerfWF": [
+    {
+      "type": 0,
+      "value": "Supported .rar .zip .doc .docx .pdf. Maximum 100M"
+    }
+  ],
+  "Agx4A1": [
+    {
+      "type": 0,
+      "value": "Award Record"
+    }
+  ],
+  "Ak6qWt": [
+    {
+      "type": 0,
+      "value": "Edit Personal Details"
+    }
+  ],
+  "B/X4oH": [
+    {
+      "type": 0,
+      "value": "not a member? Register as a "
+    },
+    {
+      "type": 1,
+      "value": "commonUser"
+    },
+    {
+      "type": 0,
+      "value": " or an "
+    },
+    {
+      "type": 1,
+      "value": "enterpriseUser"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "B4e/ed": [
+    {
+      "type": 0,
+      "value": "Cancel"
+    }
+  ],
+  "B7WBNR": [
+    {
+      "type": 0,
+      "value": "Green development aims at fostering economic growth and development, while ensuring the balance of natural assets that continue to provide the resources and environmental services on which our well-being relies."
+    }
+  ],
+  "BbpE+j": [
+    {
+      "type": 0,
+      "value": "Supported formats：.rar .zip .doc .docx .pdf.Maximum file size: 100M"
+    }
+  ],
+  "BhwhTv": [
+    {
+      "type": 0,
+      "value": "Register"
+    }
+  ],
+  "BmJMfB": [
+    {
+      "type": 0,
+      "value": "Start time"
+    }
+  ],
+  "By/UJP": [
+    {
+      "type": 0,
+      "value": "Change"
+    }
+  ],
+  "C9f2NX": [
+    {
+      "type": 0,
+      "value": "Email or password is not correct!"
+    }
+  ],
+  "CA85RA": [
+    {
+      "type": 0,
+      "value": "No data yet."
+    }
+  ],
+  "CF5xnu": [
+    {
+      "type": 0,
+      "value": "Upvoted your answer"
+    }
+  ],
+  "CGhpRb": [
+    {
+      "type": 0,
+      "value": "Keep size of 16:9"
+    }
+  ],
+  "CMP+cM": [
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " Answers"
+    }
+  ],
+  "CTmrSW": [
+    {
+      "type": 1,
+      "value": "point"
+    },
+    {
+      "type": 0,
+      "value": " points"
+    }
+  ],
+  "Cf74n4": [
+    {
+      "type": 0,
+      "value": "Write The Title"
+    }
+  ],
+  "CfetEf": [
+    {
+      "type": 0,
+      "value": "Not a member?"
+    }
+  ],
+  "Cy5doA": [
+    {
+      "type": 0,
+      "value": "Answered question"
+    }
+  ],
+  "D0t2l9": [
+    {
+      "type": 0,
+      "value": "Delete successfully."
+    }
+  ],
+  "D5YBud": [
+    {
+      "type": 0,
+      "value": "Upload Application form here"
+    }
+  ],
+  "DCdKzo": [
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " Cases"
+    }
+  ],
+  "DHj/Rg": [
+    {
+      "type": 0,
+      "value": "Smart Contract"
+    }
+  ],
+  "DV+51r": [
+    {
+      "type": 0,
+      "value": "Initiate a Vote"
+    }
+  ],
+  "DxONjG": [
+    {
+      "type": 0,
+      "value": "Confirm payment!"
+    }
+  ],
+  "E3AN/g": [
+    {
+      "type": 0,
+      "value": "The invitation to "
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": " is approved. (Reason: "
+    },
+    {
+      "type": 1,
+      "value": "reason"
+    },
+    {
+      "type": 0,
+      "value": ")"
+    }
+  ],
+  "E3sf3H": [
+    {
+      "type": 0,
+      "value": "Submission Time"
+    }
+  ],
+  "EI1PGf": [
+    {
+      "type": 0,
+      "value": "This case needs to be purchased with"
+    }
+  ],
+  "EIjl4/": [
+    {
+      "type": 0,
+      "value": "No"
+    }
+  ],
+  "EJanD4": [
+    {
+      "type": 0,
+      "value": "Cancel"
+    }
+  ],
+  "Ef0Ku/": [
+    {
+      "type": 0,
+      "value": "Announcements"
+    }
+  ],
+  "Ex1zQL": [
+    {
+      "type": 0,
+      "value": "Intelligent Manufacturing"
+    }
+  ],
+  "EziUoU": [
+    {
+      "type": 0,
+      "value": "Initiated vote"
+    }
+  ],
+  "F4vP84": [
+    {
+      "type": 0,
+      "value": "Please Select Time"
+    }
+  ],
+  "F5l4sm": [
+    {
+      "type": 0,
+      "value": "Day 1"
+    }
+  ],
+  "FYfoYq": [
+    {
+      "type": 0,
+      "value": "Your invitation is not approved"
+    }
+  ],
+  "FeO1a/": [
+    {
+      "type": 0,
+      "value": "Following"
+    }
+  ],
+  "FrUqLw": [
+    {
+      "type": 0,
+      "value": "Content"
+    }
+  ],
+  "Ft0E3y": [
+    {
+      "type": 0,
+      "value": "DIGICCY"
+    }
+  ],
+  "Fx1zzp": [
+    {
+      "type": 0,
+      "value": "Exhibition"
+    }
+  ],
+  "FxzeVl": [
+    {
+      "type": 0,
+      "value": "You have reseted the password, please re-login!"
+    }
+  ],
+  "G9M7FE": [
+    {
+      "type": 0,
+      "value": "Answers"
+    }
+  ],
+  "Gi38rA": [
+    {
+      "type": 0,
+      "value": "asked"
+    }
+  ],
+  "Gm+ZEX": [
+    {
+      "type": 0,
+      "value": "Add a header image"
+    }
+  ],
+  "H1Oqm3": [
+    {
+      "type": 0,
+      "value": "Change password"
+    }
+  ],
+  "HVhH0Y": [
+    {
+      "type": 0,
+      "value": "post vote success"
+    }
+  ],
+  "HXAazV": [
+    {
+      "type": 0,
+      "value": "Gain"
+    }
+  ],
+  "Hqbix+": [
+    {
+      "type": 0,
+      "value": "Point Change"
+    }
+  ],
+  "HyH1eQ": [
+    {
+      "type": 0,
+      "value": "post event success"
+    }
+  ],
+  "I/pFH/": [
+    {
+      "type": 0,
+      "value": "Password Reset"
+    }
+  ],
+  "I0jIXE": [
+    {
+      "type": 0,
+      "value": "Other"
+    }
+  ],
+  "IEgDCH": [
+    {
+      "type": 0,
+      "value": "answer can not be empty"
+    }
+  ],
+  "Ic9uVE": [
+    {
+      "type": 0,
+      "value": "Add Logo"
+    }
+  ],
+  "Ig/lxR": [
+    {
+      "type": 0,
+      "value": "Supported .rar .zip .doc .docx .pdf. Maximum 100M"
+    }
+  ],
+  "IlpBi6": [
+    {
+      "type": 0,
+      "value": "Points Record"
+    }
+  ],
+  "J4ir8/": [
+    {
+      "type": 0,
+      "value": "Profile"
+    }
+  ],
+  "JHQswP": [
+    {
+      "type": 0,
+      "value": "EVENTS"
+    }
+  ],
+  "JOxcUk": [
+    {
+      "type": 0,
+      "value": "Rewarded you "
+    },
+    {
+      "type": 1,
+      "value": "points"
+    },
+    {
+      "type": 0,
+      "value": " points"
+    }
+  ],
+  "JZGNWc": [
+    {
+      "type": 0,
+      "value": "Submission Time"
+    }
+  ],
+  "JfyA80": [
+    {
+      "type": 0,
+      "value": "The question 《"
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": "》 is approved."
+    }
+  ],
+  "JvHIye": [
+    {
+      "type": 0,
+      "value": "Ok"
+    }
+  ],
+  "KIEZV5": [
+    {
+      "type": 0,
+      "value": "No"
+    }
+  ],
+  "KRO0Q+": [
+    {
+      "type": 0,
+      "value": "Online"
+    }
+  ],
+  "KdTUsn": [
+    {
+      "type": 0,
+      "value": "Identification Document"
+    }
+  ],
+  "KgMr8r": [
+    {
+      "type": 0,
+      "value": "Answer"
+    }
+  ],
+  "KlkFAl": [
+    {
+      "type": 0,
+      "value": "Save"
+    }
+  ],
+  "KpdYoI": [
+    {
+      "type": 0,
+      "value": "Answered your question"
+    }
+  ],
+  "KzIUwe": [
+    {
+      "type": 0,
+      "value": "No News"
+    }
+  ],
+  "L7V7CV": [
+    {
+      "type": 0,
+      "value": "File size exceeds limit"
+    }
+  ],
+  "LDS55L": [
+    {
+      "type": 0,
+      "value": "Are you sure to cancel edit the vote?"
+    }
+  ],
+  "LLoihS": [
+    {
+      "type": 0,
+      "value": "Posted case"
+    }
+  ],
+  "LXlOHe": [
+    {
+      "type": 0,
+      "value": "In processing"
+    }
+  ],
+  "LjoJKm": [
+    {
+      "type": 0,
+      "value": "Question"
+    }
+  ],
+  "LnOX+/": [
+    {
+      "type": 0,
+      "value": "Step1"
+    }
+  ],
+  "Lxhvdq": [
+    {
+      "type": 0,
+      "value": "Event"
+    }
+  ],
+  "LyUVBK": [
+    {
+      "type": 0,
+      "value": "Conference time"
+    }
+  ],
+  "M1e+iY": [
+    {
+      "type": 0,
+      "value": "Skip"
+    }
+  ],
+  "M8aBVf": [
+    {
+      "type": 0,
+      "value": "Please login!"
+    }
+  ],
+  "MMIPL1": [
+    {
+      "type": 0,
+      "value": "Edit"
+    }
+  ],
+  "MRENqR": [
+    {
+      "type": 0,
+      "value": "Behaviour"
+    }
+  ],
+  "MjBkJP": [
+    {
+      "type": 0,
+      "value": "please input the name of event"
+    }
+  ],
+  "Mn6Si6": [
+    {
+      "type": 0,
+      "value": "Commented you: "
+    },
+    {
+      "type": 1,
+      "value": "message"
+    }
+  ],
+  "Mx+9+u": [
+    {
+      "type": 0,
+      "value": "Multiple choices"
+    }
+  ],
+  "N4j5oy": [
+    {
+      "type": 0,
+      "value": "Home"
+    }
+  ],
+  "N8vhpL": [
+    {
+      "type": 0,
+      "value": "Change Document?"
+    }
+  ],
+  "NCTjY4": [
+    {
+      "type": 0,
+      "value": "posted"
+    }
+  ],
+  "NJQgIR": [
+    {
+      "type": 0,
+      "value": "Yes"
+    }
+  ],
+  "NMFyhu": [
+    {
+      "type": 0,
+      "value": "Yes"
+    }
+  ],
+  "Nce+yW": [
+    {
+      "type": 0,
+      "value": "Collections"
+    }
+  ],
+  "O31d7o": [
+    {
+      "type": 0,
+      "value": "Attachment"
+    }
+  ],
+  "OEl/ft": [
+    {
+      "type": 0,
+      "value": "edit case success"
+    }
+  ],
+  "OQhdRc": [
+    {
+      "type": 0,
+      "value": "Enterprise / Organization user"
+    }
+  ],
+  "OTZOov": [
+    {
+      "type": 0,
+      "value": "Voting type"
+    }
+  ],
+  "OYMHuV": [
+    {
+      "type": 0,
+      "value": "Reason"
+    }
+  ],
+  "P5SHvW": [
+    {
+      "type": 0,
+      "value": "Set New Password"
+    }
+  ],
+  "P9cIli": [
+    {
+      "type": 0,
+      "value": "Your comment "
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": " is approved"
+    }
+  ],
+  "PH/5VE": [
+    {
+      "type": 0,
+      "value": "Your comment is approved"
+    }
+  ],
+  "PJZc0x": [
+    {
+      "type": 0,
+      "value": "Upload Video"
+    }
+  ],
+  "PVeJSl": [
+    {
+      "type": 0,
+      "value": "Next"
+    }
+  ],
+  "PY8AsF": [
+    {
+      "type": 0,
+      "value": "Question"
+    }
+  ],
+  "PZ3RbA": [
+    {
+      "type": 0,
+      "value": "Upvoted your case"
+    }
+  ],
+  "PZMUCl": [
+    {
+      "type": 0,
+      "value": "Your invitation is approved"
+    }
+  ],
+  "Pe+Oi0": [
+    {
+      "type": 0,
+      "value": "NEWS"
+    }
+  ],
+  "PnXYMm": [
+    {
+      "type": 0,
+      "value": "Start"
+    }
+  ],
+  "PplhrK": [
+    {
+      "type": 0,
+      "value": "post case success"
+    }
+  ],
+  "QLqTQa": [
+    {
+      "type": 0,
+      "value": "Recommend Cases"
+    }
+  ],
+  "QSFjbs": [
+    {
+      "type": 1,
+      "value": "viewCount"
+    },
+    {
+      "type": 0,
+      "value": " participants"
+    }
+  ],
+  "Qqmv1A": [
+    {
+      "type": 0,
+      "value": "Exhibiton Link"
+    }
+  ],
+  "R4iPKZ": [
+    {
+      "type": 0,
+      "value": "Drafts"
+    }
+  ],
+  "R5ckBy": [
+    {
+      "type": 0,
+      "value": "No"
+    }
+  ],
+  "RIKVoX": [
+    {
+      "type": 0,
+      "value": "Are you sure to delete the case?"
+    }
+  ],
+  "RPoVJT": [
+    {
+      "type": 0,
+      "value": "Your vote is not approved"
+    }
+  ],
+  "RUcm/W": [
+    {
+      "type": 0,
+      "value": "Exhibition"
+    }
+  ],
+  "RiONHv": [
+    {
+      "type": 0,
+      "value": "Congratulations"
+    }
+  ],
+  "Ry2Xr6": [
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " Questions"
+    }
+  ],
+  "SlzCbu": [
+    {
+      "type": 0,
+      "value": "both content and cover field can not empty"
+    }
+  ],
+  "SoLPMr": [
+    {
+      "type": 0,
+      "value": "attendance"
+    }
+  ],
+  "Sr353U": [
+    {
+      "type": 0,
+      "value": "Fogot your password?"
+    }
+  ],
+  "SwEnTn": [
+    {
+      "type": 0,
+      "value": "Choics（2-5）"
+    }
+  ],
+  "T+rPDm": [
+    {
+      "type": 0,
+      "value": "Used"
+    }
+  ],
+  "T0GIrt": [
+    {
+      "type": 0,
+      "value": "Initiate a Vote"
+    }
+  ],
+  "TCUgIc": [
+    {
+      "type": 0,
+      "value": "content field can not be empty"
+    }
+  ],
+  "TKU6gC": [
+    {
+      "type": 0,
+      "value": "Please enter keyword"
+    }
+  ],
+  "TLLsfB": [
+    {
+      "type": 0,
+      "value": "Tradeshow"
+    }
+  ],
+  "Tacfv7": [
+    {
+      "type": 0,
+      "value": "The answer "
+    },
+    {
+      "type": 1,
+      "value": "content"
+    },
+    {
+      "type": 0,
+      "value": " is approved."
+    }
+  ],
+  "TyEQYm": [
+    {
+      "type": 0,
+      "value": "Upload Files"
+    }
+  ],
+  "Tzu58t": [
+    {
+      "type": 0,
+      "value": "Points"
+    }
+  ],
+  "U+/ErH": [
+    {
+      "type": 0,
+      "value": "Your case is not approved"
+    }
+  ],
+  "U9Ndkk": [
+    {
+      "type": 0,
+      "value": "Follow"
+    }
+  ],
+  "UC0lzA": [
+    {
+      "type": 0,
+      "value": "Are you sure to publish the event?"
+    }
+  ],
+  "UIQ0b3": [
+    {
+      "type": 0,
+      "value": "Text with image"
+    }
+  ],
+  "UKngPk": [
+    {
+      "type": 0,
+      "value": "Conferences"
+    }
+  ],
+  "URWxVH": [
+    {
+      "type": 0,
+      "value": "Reply you: "
+    },
+    {
+      "type": 1,
+      "value": "message"
+    }
+  ],
+  "UUHK2P": [
+    {
+      "type": 0,
+      "value": "Hot"
+    }
+  ],
+  "Uai987": [
+    {
+      "type": 0,
+      "value": "No"
+    }
+  ],
+  "Uinrdo": [
+    {
+      "type": 0,
+      "value": "All"
+    }
+  ],
+  "UraU/t": [
+    {
+      "type": 0,
+      "value": "Your comment is not approved"
+    }
+  ],
+  "UupUn/": [
+    {
+      "type": 0,
+      "value": "Sign up again."
+    }
+  ],
+  "VJzxpN": [
+    {
+      "type": 0,
+      "value": "Purchase with points"
+    }
+  ],
+  "VK5/8K": [
+    {
+      "type": 0,
+      "value": "Add Comment"
+    }
+  ],
+  "Vjs0yi": [
+    {
+      "type": 0,
+      "value": "cover field can not be empty"
+    }
+  ],
+  "VuiVtN": [
+    {
+      "type": 0,
+      "value": "New password"
+    }
+  ],
+  "W3Tv/i": [
+    {
+      "type": 0,
+      "value": "Draft"
+    }
+  ],
+  "WD6smK": [
+    {
+      "type": 0,
+      "value": "Votes"
+    }
+  ],
+  "WI4Fx1": [
+    {
+      "type": 0,
+      "value": "Exhibition time"
+    }
+  ],
+  "WI8dNx": [
+    {
+      "type": 0,
+      "value": "This module will publish news and policy information issued by Nanjing government."
+    }
+  ],
+  "WP2k9L": [
+    {
+      "type": 0,
+      "value": "Invite Friends"
+    }
+  ],
+  "WY7Svf": [
+    {
+      "type": 0,
+      "value": "Award Record"
+    }
+  ],
+  "WjYIo/": [
+    {
+      "type": 0,
+      "value": "Digital Economy"
+    }
+  ],
+  "XAlaBZ": [
+    {
+      "type": 0,
+      "value": "Yes"
+    }
+  ],
+  "XBpDlk": [
+    {
+      "type": 0,
+      "value": "Draft"
+    }
+  ],
+  "XFMrJk": [
+    {
+      "type": 0,
+      "value": "News"
+    }
+  ],
+  "XS5KNx": [
+    {
+      "type": 0,
+      "value": "Please input 6-20 length password!"
+    }
+  ],
+  "XZkvkp": [
+    {
+      "type": 0,
+      "value": "Are you sure to submit the case?"
+    }
+  ],
+  "XhwWPm": [
+    {
+      "type": 0,
+      "value": "must choose at lease one option"
+    }
+  ],
+  "XoqXeg": [
+    {
+      "type": 0,
+      "value": "Newest"
+    }
+  ],
+  "Y1BDeL": [
+    {
+      "type": 0,
+      "value": "Event"
+    }
+  ],
+  "Y50AqW": [
+    {
+      "type": 0,
+      "value": "Exhibitions"
+    }
+  ],
+  "YMioUv": [
+    {
+      "type": 0,
+      "value": "Delete"
+    }
+  ],
+  "YVV4gz": [
+    {
+      "type": 0,
+      "value": "Error when register, please retry!"
+    }
+  ],
+  "YXywPg": [
+    {
+      "type": 0,
+      "value": "Your answer is not approved"
+    }
+  ],
+  "YbrvIS": [
+    {
+      "type": 0,
+      "value": "Points Record"
+    }
+  ],
+  "Z1av4+": [
+    {
+      "type": 0,
+      "value": "About You"
+    }
+  ],
+  "ZMFNko": [
+    {
+      "type": 0,
+      "value": "End time is required."
+    }
+  ],
+  "ZOmoXH": [
+    {
+      "type": 0,
+      "value": "Explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation"
+    }
+  ],
+  "ZPnZQg": [
+    {
+      "type": 0,
+      "value": "VIDEOS"
+    }
+  ],
+  "ZZ07Yy": [
+    {
+      "type": 0,
+      "value": "Smart Contract"
+    }
+  ],
+  "ZgrJQv": [
+    {
+      "type": 0,
+      "value": "People"
+    }
+  ],
+  "Znla7y": [
+    {
+      "type": 0,
+      "value": "Countdown"
+    }
+  ],
+  "ZpORaa": [
+    {
+      "type": 0,
+      "value": "Add a comment…"
+    }
+  ],
+  "aH4Iim": [
+    {
+      "type": 0,
+      "value": "Participate in voting"
+    }
+  ],
+  "aKAHvO": [
+    {
+      "type": 0,
+      "value": "The two password is not the same!"
+    }
+  ],
+  "aMK4IL": [
+    {
+      "type": 0,
+      "value": "reply successfully"
+    }
+  ],
+  "aWgtau": [
+    {
+      "type": 0,
+      "value": "Search Results"
+    }
+  ],
+  "ahKD8r": [
+    {
+      "type": 0,
+      "value": "Back"
+    }
+  ],
+  "bWKSAT": [
+    {
+      "type": 0,
+      "value": "Your answer "
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": " is not approved. (Reason: "
+    },
+    {
+      "type": 1,
+      "value": "reason"
+    },
+    {
+      "type": 0,
+      "value": ")"
+    }
+  ],
+  "bZJziV": [
+    {
+      "type": 0,
+      "value": "Reward"
+    }
+  ],
+  "boHq5d": [
+    {
+      "type": 0,
+      "value": "Your question is not approved"
+    }
+  ],
+  "c3ukAd": [
+    {
+      "type": 0,
+      "value": "Please enter conference link"
+    }
+  ],
+  "cSj8/I": [
+    {
+      "type": 0,
+      "value": "Post Event"
+    }
+  ],
+  "cbCDwI": [
+    {
+      "type": 0,
+      "value": "Following"
+    }
+  ],
+  "cjTtqw": [
+    {
+      "type": 0,
+      "value": "Conversion Detail"
+    }
+  ],
+  "cpXAa+": [
+    {
+      "type": 0,
+      "value": "Topic"
+    }
+  ],
+  "dLdIwm": [
+    {
+      "type": 0,
+      "value": "Edit Case"
+    }
+  ],
+  "dgMZom": [
+    {
+      "type": 0,
+      "value": "Posted by"
+    }
+  ],
+  "dvL6Ql": [
+    {
+      "type": 0,
+      "value": "Sign Up"
+    }
+  ],
+  "e/iUkv": [
+    {
+      "type": 0,
+      "value": "Top EVENTS"
+    }
+  ],
+  "e1uhfI": [
+    {
+      "type": 0,
+      "value": "You have already signed up."
+    }
+  ],
+  "e3/VWi": [
+    {
+      "type": 0,
+      "value": "Day 5"
+    }
+  ],
+  "eA68Lu": [
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " Votes"
+    }
+  ],
+  "eDSZSV": [
+    {
+      "type": 0,
+      "value": "Post Event"
+    }
+  ],
+  "ejEGdx": [
+    {
+      "type": 0,
+      "value": "Home"
+    }
+  ],
+  "emPfnC": [
+    {
+      "type": 0,
+      "value": "Posted question"
+    }
+  ],
+  "eq/tgL": [
+    {
+      "type": 0,
+      "value": "Notifications"
+    }
+  ],
+  "euBKc7": [
+    {
+      "type": 0,
+      "value": "Collect"
+    }
+  ],
+  "f04HAc": [
+    {
+      "type": 0,
+      "value": "Password"
+    }
+  ],
+  "f3hb7A": [
+    {
+      "type": 0,
+      "value": "Position"
+    }
+  ],
+  "f61rQO": [
+    {
+      "type": 0,
+      "value": "The event 《"
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": "》 is not approved. (Reason: "
+    },
+    {
+      "type": 1,
+      "value": "reason"
+    },
+    {
+      "type": 0,
+      "value": ")"
+    }
+  ],
+  "f9Gl7o": [
+    {
+      "type": 0,
+      "value": "Password confirm"
+    }
+  ],
+  "fOge9r": [
+    {
+      "type": 0,
+      "value": "Day 2"
+    }
+  ],
+  "fW1MmE": [
+    {
+      "type": 0,
+      "value": "reward success"
+    }
+  ],
+  "fah9Rf": [
+    {
+      "type": 0,
+      "value": "Follow"
+    }
+  ],
+  "feDpNJ": [
+    {
+      "type": 0,
+      "value": "Describe the question briefly"
+    }
+  ],
+  "ff89wZ": [
+    {
+      "type": 0,
+      "value": "Your vote 《"
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": "》 is not approved. (Reason: "
+    },
+    {
+      "type": 1,
+      "value": "reason"
+    },
+    {
+      "type": 0,
+      "value": ")"
+    }
+  ],
+  "fi84qV": [
+    {
+      "type": 0,
+      "value": "comment successfully"
+    }
+  ],
+  "fo6ezr": [
+    {
+      "type": 0,
+      "value": "Time"
+    }
+  ],
+  "fz8CEm": [
+    {
+      "type": 0,
+      "value": "Attendance"
+    }
+  ],
+  "g5pX+a": [
+    {
+      "type": 0,
+      "value": "About"
+    }
+  ],
+  "gDkDBW": [
+    {
+      "type": 0,
+      "value": "Your comment "
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": " is not approved. (Reason: "
+    },
+    {
+      "type": 1,
+      "value": "reason"
+    },
+    {
+      "type": 0,
+      "value": ")"
+    }
+  ],
+  "gF4FjN": [
+    {
+      "type": 0,
+      "value": "Yes"
+    }
+  ],
+  "gUPNoY": [
+    {
+      "type": 0,
+      "value": "Contract List"
+    }
+  ],
+  "gy+Cn4": [
+    {
+      "type": 0,
+      "value": "Invite Friends"
+    }
+  ],
+  "h2VtQx": [
+    {
+      "type": 0,
+      "value": "Delete"
+    }
+  ],
+  "h2vrEp": [
+    {
+      "type": 0,
+      "value": "please login first"
+    }
+  ],
+  "h9mLFn": [
+    {
+      "type": 0,
+      "value": "Yes"
+    }
+  ],
+  "hGuz+U": [
+    {
+      "type": 0,
+      "value": "Your question 《"
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": "》 is not approved. (Reason: "
+    },
+    {
+      "type": 1,
+      "value": "reason"
+    },
+    {
+      "type": 0,
+      "value": ")"
+    }
+  ],
+  "hJyU0m": [
+    {
+      "type": 0,
+      "value": "Intelligent Transportation"
+    }
+  ],
+  "hSU/Z5": [
+    {
+      "type": 0,
+      "value": "Redeem"
+    }
+  ],
+  "hhONdD": [
+    {
+      "type": 0,
+      "value": "Questions"
+    }
+  ],
+  "hsuziH": [
+    {
+      "type": 0,
+      "value": "Infomation"
+    }
+  ],
+  "hvGpo9": [
+    {
+      "type": 0,
+      "value": "Profile"
+    }
+  ],
+  "iF99A8": [
+    {
+      "type": 0,
+      "value": "Type"
+    }
+  ],
+  "iHeDoC": [
+    {
+      "type": 0,
+      "value": "Submit"
+    }
+  ],
+  "iHxAN/": [
+    {
+      "type": 0,
+      "value": "Invite your friends to T20 Network — for each one who joins after verification, you will get 100 points."
+    }
+  ],
+  "iSW+6p": [
+    {
+      "type": 0,
+      "value": "Audit Record"
+    }
+  ],
+  "ig+urm": [
+    {
+      "type": 0,
+      "value": "Text"
+    }
+  ],
+  "iu1gZm": [
+    {
+      "type": 0,
+      "value": "Exchange succeed!"
+    }
+  ],
+  "iyl2Gd": [
+    {
+      "type": 0,
+      "value": "Yes"
+    }
+  ],
+  "iysSkB": [
+    {
+      "type": 0,
+      "value": "News"
+    }
+  ],
+  "izGFIV": [
+    {
+      "type": 0,
+      "value": "Information"
+    }
+  ],
+  "j2lbtw": [
+    {
+      "type": 0,
+      "value": "vote successfully"
+    }
+  ],
+  "j843Fz": [
+    {
+      "type": 0,
+      "value": "Yes"
+    }
+  ],
+  "jNBm5W": [
+    {
+      "type": 0,
+      "value": "Are you sure to cancel edit the event?"
+    }
+  ],
+  "jOZcH+": [
+    {
+      "type": 0,
+      "value": "Please input your email!"
+    }
+  ],
+  "jQ4f+/": [
+    {
+      "type": 0,
+      "value": "No video"
+    }
+  ],
+  "jR2//o": [
+    {
+      "type": 0,
+      "value": "All"
+    }
+  ],
+  "jVcerI": [
+    {
+      "type": 0,
+      "value": "edit event success"
+    }
+  ],
+  "jdSR/h": [
+    {
+      "type": 1,
+      "value": "followerCount"
+    },
+    {
+      "type": 0,
+      "value": " Followers, "
+    },
+    {
+      "type": 1,
+      "value": "newsCount"
+    },
+    {
+      "type": 0,
+      "value": " News"
+    }
+  ],
+  "jvK9a9": [
+    {
+      "type": 0,
+      "value": "Username or password is wrong."
+    }
+  ],
+  "kAf+MO": [
+    {
+      "type": 0,
+      "value": "Cancel"
+    }
+  ],
+  "kW55pq": [
+    {
+      "type": 0,
+      "value": "Category"
+    }
+  ],
+  "kWBmzP": [
+    {
+      "type": 0,
+      "value": "DIGICCY"
+    }
+  ],
+  "kZFYVr": [
+    {
+      "type": 0,
+      "value": "Submit"
+    }
+  ],
+  "kdskLe": [
+    {
+      "type": 0,
+      "value": "Spent"
+    }
+  ],
+  "klrQoM": [
+    {
+      "type": 0,
+      "value": "Please login!"
+    }
+  ],
+  "knFDSS": [
+    {
+      "type": 0,
+      "value": "Login"
+    }
+  ],
+  "ktQCow": [
+    {
+      "type": 0,
+      "value": "Your vote 《"
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": "》 is approved"
+    }
+  ],
+  "kv4sBt": [
+    {
+      "type": 0,
+      "value": "Single choice"
+    }
+  ],
+  "l/NeJY": [
+    {
+      "type": 0,
+      "value": "Day 3"
+    }
+  ],
+  "l00O0V": [
+    {
+      "type": 1,
+      "value": "viewCount"
+    },
+    {
+      "type": 0,
+      "value": " views"
+    }
+  ],
+  "lQZMTu": [
+    {
+      "type": 0,
+      "value": "Are you sure to publish the vote?"
+    }
+  ],
+  "lTtBoq": [
+    {
+      "type": 0,
+      "value": "Explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation"
+    }
+  ],
+  "lVboKy": [
+    {
+      "type": 0,
+      "value": "Events"
+    }
+  ],
+  "mf980N": [
+    {
+      "type": 0,
+      "value": "Audit"
+    }
+  ],
+  "muATtO": [
+    {
+      "type": 0,
+      "value": "Login"
+    }
+  ],
+  "n/QNoJ": [
+    {
+      "type": 0,
+      "value": "Urban governance is aiming at upgrading city management and constructing a scientific city-governing system by position strategy, city planning, and sustainable development, and mainly focusing on the elements of city development. And it highlights the humanitarian culture of cities by enhancing management efficiency and integrated power of all governing participants, to ensure the city residents of more gain, happiness, and security, so as to make our urban life better."
+    }
+  ],
+  "n9gxvT": [
+    {
+      "type": 0,
+      "value": "Exhibitions"
+    }
+  ],
+  "nA8331": [
+    {
+      "type": 0,
+      "value": "Country"
+    }
+  ],
+  "nCI7ah": [
+    {
+      "type": 0,
+      "value": "Logout"
+    }
+  ],
+  "nPD/Px": [
+    {
+      "type": 0,
+      "value": "No"
+    }
+  ],
+  "nQU/Qx": [
+    {
+      "type": 0,
+      "value": "Your event is not approved"
+    }
+  ],
+  "nYRhUK": [
+    {
+      "type": 0,
+      "value": "Your question is approved"
+    }
+  ],
+  "nk6+jJ": [
+    {
+      "type": 0,
+      "value": "Posted at"
+    }
+  ],
+  "oPfQOD": [
+    {
+      "type": 0,
+      "value": "Login"
+    }
+  ],
+  "oRuuVo": [
+    {
+      "type": 0,
+      "value": "Add Question"
+    }
+  ],
+  "oZC7UB": [
+    {
+      "type": 0,
+      "value": "Follow"
+    }
+  ],
+  "ooJM5Z": [
+    {
+      "type": 0,
+      "value": "You have logged in for "
+    },
+    {
+      "type": 1,
+      "value": "days"
+    },
+    {
+      "type": 0,
+      "value": " consecutive days"
+    }
+  ],
+  "opME9d": [
+    {
+      "type": 0,
+      "value": "Submission Time"
+    }
+  ],
+  "ox4gVX": [
+    {
+      "type": 0,
+      "value": "Case"
+    }
+  ],
+  "pX0ZpT": [
+    {
+      "type": 0,
+      "value": "Conference"
+    }
+  ],
+  "peyk1q": [
+    {
+      "type": 0,
+      "value": "Answers"
+    }
+  ],
+  "pj5Bnd": [
+    {
+      "type": 0,
+      "value": "No"
+    }
+  ],
+  "psu+iV": [
+    {
+      "type": 0,
+      "value": "The case 《"
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": "》 is approved."
+    }
+  ],
+  "pxA3Qv": [
+    {
+      "type": 0,
+      "value": "Offline"
+    }
+  ],
+  "q91ENy": [
+    {
+      "type": 0,
+      "value": "Explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation explanation"
+    }
+  ],
+  "qPXqUH": [
+    {
+      "type": 0,
+      "value": "Comments"
+    }
+  ],
+  "qih3Pd": [
+    {
+      "type": 0,
+      "value": "Available points"
+    }
+  ],
+  "qvACLV": [
+    {
+      "type": 0,
+      "value": "EVENTS"
+    }
+  ],
+  "qw+eHo": [
+    {
+      "type": 0,
+      "value": "Operation"
+    }
+  ],
+  "qxr466": [
+    {
+      "type": 0,
+      "value": "save case success"
+    }
+  ],
+  "rBnTJB": [
+    {
+      "type": 0,
+      "value": "Create Account"
+    }
+  ],
+  "rHkEPq": [
+    {
+      "type": 0,
+      "value": "NEWS"
+    }
+  ],
+  "rOT9+3": [
+    {
+      "type": 0,
+      "value": "Town/City"
+    }
+  ],
+  "rR5455": [
+    {
+      "type": 0,
+      "value": "Sign up"
+    }
+  ],
+  "rUrnFL": [
+    {
+      "type": 0,
+      "value": "Initiate Vote"
+    }
+  ],
+  "rczn0I": [
+    {
+      "type": 0,
+      "value": "Upload Files"
+    }
+  ],
+  "rqEWiM": [
+    {
+      "type": 0,
+      "value": "Please input a valid email!"
+    }
+  ],
+  "sIfISv": [
+    {
+      "type": 0,
+      "value": "Add an image"
+    }
+  ],
+  "sMCOhc": [
+    {
+      "type": 0,
+      "value": "No Events"
+    }
+  ],
+  "sWsgjy": [
+    {
+      "type": 0,
+      "value": "Your case is approved"
+    }
+  ],
+  "sqTicM": [
+    {
+      "type": 0,
+      "value": "Green Development"
+    }
+  ],
+  "syl4qr": [
+    {
+      "type": 0,
+      "value": "News"
+    }
+  ],
+  "t3kCHB": [
+    {
+      "type": 0,
+      "value": "Questions"
+    }
+  ],
+  "tG1oVY": [
+    {
+      "type": 0,
+      "value": "15 points"
+    }
+  ],
+  "tIU7Cr": [
+    {
+      "type": 0,
+      "value": "Title is required."
+    }
+  ],
+  "tSV/6A": [
+    {
+      "type": 0,
+      "value": "Write The Title"
+    }
+  ],
+  "tUYo5C": [
+    {
+      "type": 0,
+      "value": "Cases"
+    }
+  ],
+  "tUpmXD": [
+    {
+      "type": 0,
+      "value": "The invitation to "
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": " is approved."
+    }
+  ],
+  "tVWN+t": [
+    {
+      "type": 0,
+      "value": "Top NEWS"
+    }
+  ],
+  "taZjKq": [
+    {
+      "type": 0,
+      "value": "Choice type"
+    }
+  ],
+  "tl5Cai": [
+    {
+      "type": 0,
+      "value": "Supported formats：.rar .zip .doc .docx .pdf. Maximum file size: 100M"
+    }
+  ],
+  "u0sjy8": [
+    {
+      "type": 0,
+      "value": "Supported .MP4. Maximum 500M"
+    }
+  ],
+  "u7HyiE": [
+    {
+      "type": 0,
+      "value": "TOPICS"
+    }
+  ],
+  "uNbhbG": [
+    {
+      "type": 0,
+      "value": "Your event is approved"
+    }
+  ],
+  "uXsoa0": [
+    {
+      "type": 0,
+      "value": "You have already signed up for "
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "uYVsQi": [
+    {
+      "type": 0,
+      "value": "More"
+    }
+  ],
+  "uyNaN2": [
+    {
+      "type": 0,
+      "value": "Approved"
+    }
+  ],
+  "vAVAFg": [
+    {
+      "type": 0,
+      "value": "Following"
+    }
+  ],
+  "vcUTVe": [
+    {
+      "type": 0,
+      "value": "Conference"
+    }
+  ],
+  "vsYxdC": [
+    {
+      "type": 0,
+      "value": "Digital economy is the new driving force of economy, and a new form to develop productivity. It covers the application of new frontier technologies as big data, cloud computing, Internet of things, block-chain, artificial intelligence, 5G communication, new retail, and new manufacturing."
+    }
+  ],
+  "wKMI45": [
+    {
+      "type": 0,
+      "value": "Common user"
+    }
+  ],
+  "wKdUrQ": [
+    {
+      "type": 0,
+      "value": "Please input your password!"
+    }
+  ],
+  "wQxWlR": [
+    {
+      "type": 0,
+      "value": "Post Case"
+    }
+  ],
+  "wZMV8E": [
+    {
+      "type": 0,
+      "value": "Delete successfully."
+    }
+  ],
+  "ws86Eq": [
+    {
+      "type": 0,
+      "value": "No"
+    }
+  ],
+  "xC5bce": [
+    {
+      "type": 0,
+      "value": "Following"
+    }
+  ],
+  "xMdFQP": [
+    {
+      "type": 0,
+      "value": "Edit Bio"
+    }
+  ],
+  "xO62v4": [
+    {
+      "type": 0,
+      "value": "Image"
+    }
+  ],
+  "xSC+lB": [
+    {
+      "type": 0,
+      "value": "Enter choice text"
+    }
+  ],
+  "xVSr6B": [
+    {
+      "type": 0,
+      "value": "Points Mall"
+    }
+  ],
+  "xhPP3M": [
+    {
+      "type": 0,
+      "value": "Start time is required."
+    }
+  ],
+  "xn+6yi": [
+    {
+      "type": 0,
+      "value": "Followers"
+    }
+  ],
+  "xtu5op": [
+    {
+      "type": 0,
+      "value": "Events"
+    }
+  ],
+  "xw3eEU": [
+    {
+      "type": 0,
+      "value": "No"
+    }
+  ],
+  "yBstyl": [
+    {
+      "type": 0,
+      "value": "End time"
+    }
+  ],
+  "yTmt+9": [
+    {
+      "type": 0,
+      "value": "Are you sure to cancel edit the case?"
+    }
+  ],
+  "yU8q46": [
+    {
+      "type": 0,
+      "value": "Add Event Logo"
+    }
+  ],
+  "yWk8Xi": [
+    {
+      "type": 0,
+      "value": "Day 4"
+    }
+  ],
+  "yiz+l8": [
+    {
+      "type": 0,
+      "value": "Video"
+    }
+  ],
+  "z4gPin": [
+    {
+      "type": 0,
+      "value": "Add question"
+    }
+  ],
+  "zRs2hX": [
+    {
+      "type": 0,
+      "value": "Operation"
+    }
+  ],
+  "zbzYD3": [
+    {
+      "type": 0,
+      "value": "Please choose the topic of interest"
+    }
+  ],
+  "zcCswq": [
+    {
+      "type": 0,
+      "value": "Content"
+    }
+  ],
+  "zi/Z3R": [
+    {
+      "type": 0,
+      "value": "Intelligent manufacturing focuses on the deep integration of the new generation of IT and advanced manufacturing， including the generic enabling technology of digitization, networking and intellectualization. Intelligent manufacturing covers the value chain of manufacturing from product design, production, to logistics and service, aiming at creating new international competitive edge."
+    }
+  ],
+  "zrxfKV": [
+    {
+      "type": 0,
+      "value": "Welcome"
+    }
+  ],
+  "zzkgLR": [
+    {
+      "type": 0,
+      "value": "add question success"
+    }
+  ]
+}

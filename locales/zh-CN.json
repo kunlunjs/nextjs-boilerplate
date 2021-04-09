@@ -1,0 +1,2918 @@
+{
+  "+IhtdU": [
+    {
+      "type": 0,
+      "value": "粉丝"
+    }
+  ],
+  "+M/wSi": [
+    {
+      "type": 0,
+      "value": "我们已经给您发送了重置密码邮件，请根据邮件内容重置您的密码。"
+    }
+  ],
+  "+RY/Pz": [
+    {
+      "type": 0,
+      "value": "全部评论"
+    }
+  ],
+  "+sDjWh": [
+    {
+      "type": 0,
+      "value": "会议名称"
+    }
+  ],
+  "+tHIyB": [
+    {
+      "type": 0,
+      "value": "生命健康"
+    }
+  ],
+  "+tHkds": [
+    {
+      "type": 0,
+      "value": "案例"
+    }
+  ],
+  "/026fx": [
+    {
+      "type": 0,
+      "value": "发送重置密码邮件"
+    }
+  ],
+  "/4Df3f": [
+    {
+      "type": 0,
+      "value": "发布案例"
+    }
+  ],
+  "/UGapp": [
+    {
+      "type": 0,
+      "value": "此项必填!"
+    }
+  ],
+  "/WQkaq": [
+    {
+      "type": 0,
+      "value": "您发布的案例《"
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": "》未通过审核（未通过原因："
+    },
+    {
+      "type": 1,
+      "value": "reason"
+    },
+    {
+      "type": 0,
+      "value": "）。"
+    }
+  ],
+  "/aFT/C": [
+    {
+      "type": 0,
+      "value": "创新经济"
+    }
+  ],
+  "/bXIbp": [
+    {
+      "type": 0,
+      "value": "无回答"
+    }
+  ],
+  "/kthuD": [
+    {
+      "type": 0,
+      "value": "关注"
+    }
+  ],
+  "/lbttb": [
+    {
+      "type": 0,
+      "value": "生命健康"
+    }
+  ],
+  "/ndlzC": [
+    {
+      "type": 0,
+      "value": "是否确定删除该案例？"
+    }
+  ],
+  "/ohD66": [
+    {
+      "type": 0,
+      "value": "生命健康板块涵盖医院、医疗服务机构、医药器械、医疗保险、投资机构、IT与互联网、人工智能、医疗大数据、食品健康等众多行业，共同形成生命健康产业生态圈。"
+    }
+  ],
+  "/psHws": [
+    {
+      "type": 0,
+      "value": "发布活动"
+    }
+  ],
+  "05PSyy": [
+    {
+      "type": 0,
+      "value": "回复"
+    }
+  ],
+  "08HRCr": [
+    {
+      "type": 0,
+      "value": "姓"
+    }
+  ],
+  "0bjrSw": [
+    {
+      "type": 0,
+      "value": "会议链接"
+    }
+  ],
+  "0jPX/s": [
+    {
+      "type": 0,
+      "value": "被邀请人信息"
+    }
+  ],
+  "1Hx3kC": [
+    {
+      "type": 0,
+      "value": "全部"
+    }
+  ],
+  "1NK5K1": [
+    {
+      "type": 0,
+      "value": "E-mail"
+    }
+  ],
+  "1UgoW9": [
+    {
+      "type": 0,
+      "value": "请先登录！"
+    }
+  ],
+  "1Znp0s": [
+    {
+      "type": 0,
+      "value": "内容"
+    }
+  ],
+  "1ml/EY": [
+    {
+      "type": 0,
+      "value": "全部"
+    }
+  ],
+  "2HqxSs": [
+    {
+      "type": 0,
+      "value": "案例"
+    }
+  ],
+  "2fp/qw": [
+    {
+      "type": 0,
+      "value": "投票"
+    }
+  ],
+  "2iFtc8": [
+    {
+      "type": 0,
+      "value": "会议"
+    }
+  ],
+  "2rbuwC": [
+    {
+      "type": 0,
+      "value": "会议"
+    }
+  ],
+  "2yXpU1": [
+    {
+      "type": 0,
+      "value": "编辑"
+    }
+  ],
+  "3/5X0t": [
+    {
+      "type": 0,
+      "value": "积分商城模块简介"
+    }
+  ],
+  "3/uWNe": [
+    {
+      "type": 0,
+      "value": "公共卫生"
+    }
+  ],
+  "3C0Zwg": [
+    {
+      "type": 0,
+      "value": "打赏"
+    },
+    {
+      "type": 1,
+      "value": "reward_point"
+    },
+    {
+      "type": 0,
+      "value": "积分"
+    }
+  ],
+  "3Hmqn2": [
+    {
+      "type": 0,
+      "value": "名"
+    }
+  ],
+  "3qqwym": [
+    {
+      "type": 0,
+      "value": "添加选项"
+    }
+  ],
+  "3tb7Cn": [
+    {
+      "type": 0,
+      "value": "门票"
+    }
+  ],
+  "3wAk66": [
+    {
+      "type": 0,
+      "value": "展览名称"
+    }
+  ],
+  "3zatpE": [
+    {
+      "type": 0,
+      "value": "抱歉，出错了！"
+    }
+  ],
+  "4jpwjp": [
+    {
+      "type": 0,
+      "value": "数字货币模块简介"
+    }
+  ],
+  "4vz01f": [
+    {
+      "type": 0,
+      "value": "消费展"
+    }
+  ],
+  "55DMY8": [
+    {
+      "type": 0,
+      "value": "发布案例"
+    }
+  ],
+  "5cJDQD": [
+    {
+      "type": 0,
+      "value": "地址"
+    }
+  ],
+  "64grYo": [
+    {
+      "type": 0,
+      "value": "关于 "
+    },
+    {
+      "type": 1,
+      "value": "key"
+    },
+    {
+      "type": 0,
+      "value": " 的搜索结果"
+    }
+  ],
+  "674XCY": [
+    {
+      "type": 0,
+      "value": "发布案例"
+    }
+  ],
+  "6OedlY": [
+    {
+      "type": 0,
+      "value": "邀请会员"
+    }
+  ],
+  "6PdOcy": [
+    {
+      "type": 0,
+      "value": "取消"
+    }
+  ],
+  "6QPSbb": [
+    {
+      "type": 0,
+      "value": "展览"
+    }
+  ],
+  "6Y5NZ5": [
+    {
+      "type": 0,
+      "value": "添加简介图片"
+    }
+  ],
+  "6eVfHN": [
+    {
+      "type": 0,
+      "value": "上传附件"
+    }
+  ],
+  "6qHuLh": [
+    {
+      "type": 0,
+      "value": "您要花费15积分解锁这篇案例么？"
+    }
+  ],
+  "6s6tGF": [
+    {
+      "type": 0,
+      "value": "城市治理"
+    }
+  ],
+  "7/q2L9": [
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " 活动"
+    }
+  ],
+  "7C/JOI": [
+    {
+      "type": 0,
+      "value": "新闻"
+    }
+  ],
+  "7EAYKE": [
+    {
+      "type": 0,
+      "value": "您发起的投票已通过审核。"
+    }
+  ],
+  "7MEpkn": [
+    {
+      "type": 0,
+      "value": "模块简介"
+    }
+  ],
+  "7SYsod": [
+    {
+      "type": 0,
+      "value": "未使用"
+    }
+  ],
+  "7aUrTH": [
+    {
+      "type": 0,
+      "value": "提交"
+    }
+  ],
+  "8ITop1": [
+    {
+      "type": 0,
+      "value": "积分商城"
+    }
+  ],
+  "8Isdk+": [
+    {
+      "type": 0,
+      "value": "智慧交通话题简介"
+    }
+  ],
+  "8YYJl+": [
+    {
+      "type": 0,
+      "value": "您发布的活动《"
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": "》已通过审核。"
+    }
+  ],
+  "8ZZnvo": [
+    {
+      "type": 0,
+      "value": "智慧交通板块主要包括智慧交通基础设施、智慧化交通出行、智慧化交通调度和指挥、智慧化道路交通管理、智慧化港航管理和智慧化路政管理等方面，面向智慧城市建设需求，推动实现综合交通的信息管理与高效决策。"
+    }
+  ],
+  "8q/yFf": [
+    {
+      "type": 0,
+      "value": "模块"
+    }
+  ],
+  "8xMqCo": [
+    {
+      "type": 0,
+      "value": "未通过"
+    }
+  ],
+  "9+7UZM": [
+    {
+      "type": 0,
+      "value": "评论"
+    }
+  ],
+  "9+dGwA": [
+    {
+      "type": 0,
+      "value": "第二步"
+    }
+  ],
+  "92/9Kc": [
+    {
+      "type": 0,
+      "value": "赞"
+    }
+  ],
+  "938TD5": [
+    {
+      "type": 0,
+      "value": "审核记录"
+    }
+  ],
+  "98+O9z": [
+    {
+      "type": 0,
+      "value": "点赞"
+    }
+  ],
+  "9A05ZH": [
+    {
+      "type": 0,
+      "value": "活动模块介绍"
+    }
+  ],
+  "9Axhj8": [
+    {
+      "type": 0,
+      "value": "您提交的回答已通过审核。"
+    }
+  ],
+  "9WjpQx": [
+    {
+      "type": 0,
+      "value": "全部"
+    }
+  ],
+  "9boGoC": [
+    {
+      "type": 0,
+      "value": "请输入登录邮箱，我们将向您的邮箱发送重置密码邮件。"
+    }
+  ],
+  "9byXME": [
+    {
+      "type": 0,
+      "value": "该回答已提交审核！可前往个人中心-审核记录查看审核进度。"
+    }
+  ],
+  "9kK9sF": [
+    {
+      "type": 0,
+      "value": "详情"
+    }
+  ],
+  "9yDGYi": [
+    {
+      "type": 0,
+      "value": "话题"
+    }
+  ],
+  "AIu45U": [
+    {
+      "type": 0,
+      "value": "智慧交通是在智能交通的基础上，在交通领域中充分运用物联网、云计算、互联网、人工智能、自动控制、移动互联网等技术，通过高新技术汇集交通信息，对交通管理、交通运输、公众出行等等交通领域全方面以及交通建设管理全过程进行管控支撑，使交通系统在区域、城市甚至更大的时空范围具备感知、互联、分析、预测、控制等能力，以充分保障交通安全、发挥交通基础设施效能、提升交通系统运行效率和管理水平，为通畅的公众出行和可持续的经济发展服务。"
+    }
+  ],
+  "AVncO+": [
+    {
+      "type": 0,
+      "value": "新闻详情"
+    }
+  ],
+  "AaWkEz": [
+    {
+      "type": 0,
+      "value": "now"
+    }
+  ],
+  "AchCCh": [
+    {
+      "type": 0,
+      "value": "请填写个人简介"
+    }
+  ],
+  "AerfWF": [
+    {
+      "type": 0,
+      "value": "支持文件格式：.rar .zip .doc .docx .pdf. 。最大文件：100M。"
+    }
+  ],
+  "Agx4A1": [
+    {
+      "type": 0,
+      "value": "兑换记录"
+    }
+  ],
+  "AiYbFo": [
+    {
+      "type": 0,
+      "value": "添加背景图片"
+    }
+  ],
+  "Ak6qWt": [
+    {
+      "type": 0,
+      "value": "编辑个人信息"
+    }
+  ],
+  "B/X4oH": [
+    {
+      "type": 0,
+      "value": "还没有账号？立即注册成为"
+    },
+    {
+      "type": 1,
+      "value": "commonUser"
+    },
+    {
+      "type": 0,
+      "value": "或"
+    },
+    {
+      "type": 1,
+      "value": "enterpriseUser"
+    }
+  ],
+  "B4e/ed": [
+    {
+      "type": 0,
+      "value": "取消"
+    }
+  ],
+  "B7WBNR": [
+    {
+      "type": 0,
+      "value": "绿色发展板块包括促进经济增长和发展，同时确保自然资产继续为我们提供赖以生存的资源和环境服务。"
+    }
+  ],
+  "BbpE+j": [
+    {
+      "type": 0,
+      "value": "支持格式：.rar .zip .doc .docx .pdf。文件最大不超过100M。"
+    }
+  ],
+  "BhwhTv": [
+    {
+      "type": 0,
+      "value": "注册"
+    }
+  ],
+  "BmJMfB": [
+    {
+      "type": 0,
+      "value": "开始时间"
+    }
+  ],
+  "By/UJP": [
+    {
+      "type": 0,
+      "value": "更换"
+    }
+  ],
+  "C9f2NX": [
+    {
+      "type": 0,
+      "value": "登录邮箱或密码错误！"
+    }
+  ],
+  "CA85RA": [
+    {
+      "type": 0,
+      "value": "暂无内容"
+    }
+  ],
+  "CF5xnu": [
+    {
+      "type": 0,
+      "value": "点赞了你的回答"
+    }
+  ],
+  "CGhpRb": [
+    {
+      "type": 0,
+      "value": "比例16:9"
+    }
+  ],
+  "CMP+cM": [
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " 回答"
+    }
+  ],
+  "CTmrSW": [
+    {
+      "type": 1,
+      "value": "point"
+    },
+    {
+      "type": 0,
+      "value": " 积分"
+    }
+  ],
+  "Cf74n4": [
+    {
+      "type": 0,
+      "value": "请输入案例标题"
+    }
+  ],
+  "CfetEf": [
+    {
+      "type": 0,
+      "value": "注册成为用户"
+    }
+  ],
+  "Cy5doA": [
+    {
+      "type": 0,
+      "value": "回答问题"
+    }
+  ],
+  "D0t2l9": [
+    {
+      "type": 0,
+      "value": "已删除"
+    }
+  ],
+  "D5YBud": [
+    {
+      "type": 0,
+      "value": "请上传报名文件"
+    }
+  ],
+  "DCdKzo": [
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " 案例"
+    }
+  ],
+  "DHj/Rg": [
+    {
+      "type": 0,
+      "value": "智能合约"
+    }
+  ],
+  "DV+51r": [
+    {
+      "type": 0,
+      "value": "发起投票"
+    }
+  ],
+  "DxONjG": [
+    {
+      "type": 0,
+      "value": "确认支付"
+    }
+  ],
+  "E3AN/g": [
+    {
+      "type": 0,
+      "value": "您对"
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": "的邀请已通过审核。"
+    }
+  ],
+  "E3sf3H": [
+    {
+      "type": 0,
+      "value": "提交时间"
+    }
+  ],
+  "EI1PGf": [
+    {
+      "type": 0,
+      "value": "这篇文章需支付积分解锁"
+    }
+  ],
+  "EIjl4/": [
+    {
+      "type": 0,
+      "value": "否"
+    }
+  ],
+  "EJanD4": [
+    {
+      "type": 0,
+      "value": "取消"
+    }
+  ],
+  "Ef0Ku/": [
+    {
+      "type": 0,
+      "value": "站内通知"
+    }
+  ],
+  "Ex1zQL": [
+    {
+      "type": 0,
+      "value": "智能制造"
+    }
+  ],
+  "EziUoU": [
+    {
+      "type": 0,
+      "value": "发起投票"
+    }
+  ],
+  "F4vP84": [
+    {
+      "type": 0,
+      "value": "请选择时间"
+    }
+  ],
+  "F5l4sm": [
+    {
+      "type": 0,
+      "value": "第1天"
+    }
+  ],
+  "FYfoYq": [
+    {
+      "type": 0,
+      "value": "您提交的邀请未通过审核"
+    }
+  ],
+  "FeO1a/": [
+    {
+      "type": 0,
+      "value": "关注"
+    }
+  ],
+  "FrUqLw": [
+    {
+      "type": 0,
+      "value": "内容"
+    }
+  ],
+  "Ft0E3y": [
+    {
+      "type": 0,
+      "value": "数字货币"
+    }
+  ],
+  "Fx1zzp": [
+    {
+      "type": 0,
+      "value": "展览"
+    }
+  ],
+  "FxzeVl": [
+    {
+      "type": 0,
+      "value": "重置密码成功，请重新登录！"
+    }
+  ],
+  "G9M7FE": [
+    {
+      "type": 0,
+      "value": "回答"
+    }
+  ],
+  "Gi38rA": [
+    {
+      "type": 0,
+      "value": "asked"
+    }
+  ],
+  "Gm+ZEX": [
+    {
+      "type": 0,
+      "value": "添加标题图片"
+    }
+  ],
+  "H1Oqm3": [
+    {
+      "type": 0,
+      "value": "重置密码"
+    }
+  ],
+  "HBC07C": [
+    {
+      "type": 0,
+      "value": "参与形式"
+    }
+  ],
+  "HVhH0Y": [
+    {
+      "type": 0,
+      "value": "该投票已提交审核！可前往个人中心-审核记录查看审核进度。"
+    }
+  ],
+  "HXAazV": [
+    {
+      "type": 0,
+      "value": "获取"
+    }
+  ],
+  "Hqbix+": [
+    {
+      "type": 0,
+      "value": "积分变化"
+    }
+  ],
+  "HyH1eQ": [
+    {
+      "type": 0,
+      "value": "该活动已提交审核"
+    }
+  ],
+  "I/pFH/": [
+    {
+      "type": 0,
+      "value": "重置密码"
+    }
+  ],
+  "I0jIXE": [
+    {
+      "type": 0,
+      "value": "其他"
+    }
+  ],
+  "IEgDCH": [
+    {
+      "type": 0,
+      "value": "请输入回答内容"
+    }
+  ],
+  "Ic9uVE": [
+    {
+      "type": 0,
+      "value": "添加活动Logo"
+    }
+  ],
+  "Ig/lxR": [
+    {
+      "type": 0,
+      "value": "支持格式：.rar .zip .doc .docx .pdf。文件最大不超过100M。"
+    }
+  ],
+  "IlpBi6": [
+    {
+      "type": 0,
+      "value": "积分记录"
+    }
+  ],
+  "J4ir8/": [
+    {
+      "type": 0,
+      "value": "个人中心"
+    }
+  ],
+  "JHQswP": [
+    {
+      "type": 0,
+      "value": "活动"
+    }
+  ],
+  "JOxcUk": [
+    {
+      "type": 0,
+      "value": "打赏了"
+    },
+    {
+      "type": 1,
+      "value": "points"
+    },
+    {
+      "type": 0,
+      "value": "积分"
+    }
+  ],
+  "JZGNWc": [
+    {
+      "type": 0,
+      "value": "提交时间"
+    }
+  ],
+  "JfyA80": [
+    {
+      "type": 0,
+      "value": "你发布的问题《"
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": "已通过审核。》"
+    }
+  ],
+  "JvHIye": [
+    {
+      "type": 0,
+      "value": "确认"
+    }
+  ],
+  "KEC2at": [
+    {
+      "type": 0,
+      "value": "多边合作"
+    }
+  ],
+  "KIEZV5": [
+    {
+      "type": 0,
+      "value": "否"
+    }
+  ],
+  "KRO0Q+": [
+    {
+      "type": 0,
+      "value": "线上"
+    }
+  ],
+  "KdTUsn": [
+    {
+      "type": 0,
+      "value": "身份认证文件"
+    }
+  ],
+  "KgMr8r": [
+    {
+      "type": 0,
+      "value": "回答"
+    }
+  ],
+  "KlkFAl": [
+    {
+      "type": 0,
+      "value": "保存"
+    }
+  ],
+  "KpdYoI": [
+    {
+      "type": 0,
+      "value": "回答了你的问题"
+    }
+  ],
+  "KzIUwe": [
+    {
+      "type": 0,
+      "value": "暂无新闻内容"
+    }
+  ],
+  "L7V7CV": [
+    {
+      "type": 0,
+      "value": "文件过大"
+    }
+  ],
+  "LDS55L": [
+    {
+      "type": 0,
+      "value": "是否确定删除该投票？"
+    }
+  ],
+  "LLoihS": [
+    {
+      "type": 0,
+      "value": "发布案例"
+    }
+  ],
+  "LXlOHe": [
+    {
+      "type": 0,
+      "value": "审核中"
+    }
+  ],
+  "LjoJKm": [
+    {
+      "type": 0,
+      "value": "问题"
+    }
+  ],
+  "LnOX+/": [
+    {
+      "type": 0,
+      "value": "第一步"
+    }
+  ],
+  "Lxhvdq": [
+    {
+      "type": 0,
+      "value": "活动"
+    }
+  ],
+  "LyUVBK": [
+    {
+      "type": 0,
+      "value": "会议时间"
+    }
+  ],
+  "M1e+iY": [
+    {
+      "type": 0,
+      "value": "跳过"
+    }
+  ],
+  "M8aBVf": [
+    {
+      "type": 0,
+      "value": "请先登录！"
+    }
+  ],
+  "MMIPL1": [
+    {
+      "type": 0,
+      "value": "编辑"
+    }
+  ],
+  "MRENqR": [
+    {
+      "type": 0,
+      "value": "行为"
+    }
+  ],
+  "MjBkJP": [
+    {
+      "type": 0,
+      "value": "请输入活动名称"
+    }
+  ],
+  "Mn6Si6": [
+    {
+      "type": 0,
+      "value": "评论了你: "
+    },
+    {
+      "type": 1,
+      "value": "message"
+    }
+  ],
+  "Mx+9+u": [
+    {
+      "type": 0,
+      "value": "多选"
+    }
+  ],
+  "N4j5oy": [
+    {
+      "type": 0,
+      "value": "主页"
+    }
+  ],
+  "N8vhpL": [
+    {
+      "type": 0,
+      "value": "重新上传"
+    }
+  ],
+  "NCTjY4": [
+    {
+      "type": 0,
+      "value": "发布"
+    }
+  ],
+  "NJQgIR": [
+    {
+      "type": 0,
+      "value": "是"
+    }
+  ],
+  "NMFyhu": [
+    {
+      "type": 0,
+      "value": "是"
+    }
+  ],
+  "Nce+yW": [
+    {
+      "type": 0,
+      "value": "收藏"
+    }
+  ],
+  "O31d7o": [
+    {
+      "type": 0,
+      "value": "附件"
+    }
+  ],
+  "O9+JZV": [
+    {
+      "type": 0,
+      "value": "智慧交通"
+    }
+  ],
+  "OEl/ft": [
+    {
+      "type": 0,
+      "value": "该次编辑已提交审核"
+    }
+  ],
+  "OQhdRc": [
+    {
+      "type": 0,
+      "value": "企业/机构用户"
+    }
+  ],
+  "OTZOov": [
+    {
+      "type": 0,
+      "value": "投票类型"
+    }
+  ],
+  "OYMHuV": [
+    {
+      "type": 0,
+      "value": "理由"
+    }
+  ],
+  "P5SHvW": [
+    {
+      "type": 0,
+      "value": "重置密码"
+    }
+  ],
+  "P9cIli": [
+    {
+      "type": 0,
+      "value": "您发表的评论"
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": "已通过审核"
+    }
+  ],
+  "PH/5VE": [
+    {
+      "type": 0,
+      "value": "您的评论已通过审核"
+    }
+  ],
+  "PJZc0x": [
+    {
+      "type": 0,
+      "value": "上传视频"
+    }
+  ],
+  "PVeJSl": [
+    {
+      "type": 0,
+      "value": "下一步"
+    }
+  ],
+  "PY8AsF": [
+    {
+      "type": 0,
+      "value": "问题"
+    }
+  ],
+  "PZ3RbA": [
+    {
+      "type": 0,
+      "value": "点赞了您的案例"
+    }
+  ],
+  "PZMUCl": [
+    {
+      "type": 0,
+      "value": "您提交的邀请已通过审核。"
+    }
+  ],
+  "Pe+Oi0": [
+    {
+      "type": 0,
+      "value": "新闻"
+    }
+  ],
+  "PnXYMm": [
+    {
+      "type": 0,
+      "value": "开始"
+    }
+  ],
+  "PplhrK": [
+    {
+      "type": 0,
+      "value": "该案例已提交审核"
+    }
+  ],
+  "QLqTQa": [
+    {
+      "type": 0,
+      "value": "推荐案例"
+    }
+  ],
+  "QSFjbs": [
+    {
+      "type": 1,
+      "value": "viewCount"
+    },
+    {
+      "type": 0,
+      "value": " 参与"
+    }
+  ],
+  "Qqmv1A": [
+    {
+      "type": 0,
+      "value": "展览链接"
+    }
+  ],
+  "R4iPKZ": [
+    {
+      "type": 0,
+      "value": "草稿箱"
+    }
+  ],
+  "R5ckBy": [
+    {
+      "type": 0,
+      "value": "否"
+    }
+  ],
+  "RIKVoX": [
+    {
+      "type": 0,
+      "value": "确定删除该草稿？"
+    }
+  ],
+  "RPoVJT": [
+    {
+      "type": 0,
+      "value": "您发起的投票未通过审核。"
+    }
+  ],
+  "RUcm/W": [
+    {
+      "type": 0,
+      "value": "展览"
+    }
+  ],
+  "RiONHv": [
+    {
+      "type": 0,
+      "value": "恭喜！！"
+    }
+  ],
+  "Ry2Xr6": [
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " 问题"
+    }
+  ],
+  "SlzCbu": [
+    {
+      "type": 0,
+      "value": "内容和封面图片不得为空"
+    }
+  ],
+  "SoLPMr": [
+    {
+      "type": 0,
+      "value": "参与形式"
+    }
+  ],
+  "Sr353U": [
+    {
+      "type": 0,
+      "value": "忘记密码？"
+    }
+  ],
+  "SwEnTn": [
+    {
+      "type": 0,
+      "value": "选项（2-5）"
+    }
+  ],
+  "T+rPDm": [
+    {
+      "type": 0,
+      "value": "已使用"
+    }
+  ],
+  "T0GIrt": [
+    {
+      "type": 0,
+      "value": "发起投票"
+    }
+  ],
+  "T3z5nH": [
+    {
+      "type": 0,
+      "value": "智能制造话题简介"
+    }
+  ],
+  "TCUgIc": [
+    {
+      "type": 0,
+      "value": "请填写内容"
+    }
+  ],
+  "TKU6gC": [
+    {
+      "type": 0,
+      "value": "请输入关键词"
+    }
+  ],
+  "TLLsfB": [
+    {
+      "type": 0,
+      "value": "贸易展"
+    }
+  ],
+  "Tacfv7": [
+    {
+      "type": 0,
+      "value": "您发表的回答"
+    },
+    {
+      "type": 1,
+      "value": "content"
+    },
+    {
+      "type": 0,
+      "value": "已通过审核。"
+    }
+  ],
+  "TyEQYm": [
+    {
+      "type": 0,
+      "value": "上传文件"
+    }
+  ],
+  "Tzu58t": [
+    {
+      "type": 0,
+      "value": "积分"
+    }
+  ],
+  "U+/ErH": [
+    {
+      "type": 0,
+      "value": "您发布的案例未通过审核。"
+    }
+  ],
+  "U9Ndkk": [
+    {
+      "type": 0,
+      "value": "订阅"
+    }
+  ],
+  "UC0lzA": [
+    {
+      "type": 0,
+      "value": "是否确定发布该活动？"
+    }
+  ],
+  "UIQ0b3": [
+    {
+      "type": 0,
+      "value": "文字+图片"
+    }
+  ],
+  "UKngPk": [
+    {
+      "type": 0,
+      "value": "会议"
+    }
+  ],
+  "URWxVH": [
+    {
+      "type": 0,
+      "value": "回复了你："
+    },
+    {
+      "type": 1,
+      "value": "message"
+    }
+  ],
+  "UTjW1B": [
+    {
+      "type": 0,
+      "value": "名"
+    }
+  ],
+  "UUHK2P": [
+    {
+      "type": 0,
+      "value": "热度"
+    }
+  ],
+  "Uai987": [
+    {
+      "type": 0,
+      "value": "否"
+    }
+  ],
+  "Uinrdo": [
+    {
+      "type": 0,
+      "value": "全部"
+    }
+  ],
+  "UraU/t": [
+    {
+      "type": 0,
+      "value": "您发布的评论未通过审核。"
+    }
+  ],
+  "UupUn/": [
+    {
+      "type": 0,
+      "value": "重新报名"
+    }
+  ],
+  "VJzxpN": [
+    {
+      "type": 0,
+      "value": "积分解锁"
+    }
+  ],
+  "VK5/8K": [
+    {
+      "type": 0,
+      "value": "评论"
+    }
+  ],
+  "Vjs0yi": [
+    {
+      "type": 0,
+      "value": "请上传封面图片"
+    }
+  ],
+  "VuiVtN": [
+    {
+      "type": 0,
+      "value": "New password"
+    }
+  ],
+  "W3Tv/i": [
+    {
+      "type": 0,
+      "value": "草稿箱"
+    }
+  ],
+  "WD6smK": [
+    {
+      "type": 0,
+      "value": "投票"
+    }
+  ],
+  "WI4Fx1": [
+    {
+      "type": 0,
+      "value": "展览时间"
+    }
+  ],
+  "WI8dNx": [
+    {
+      "type": 0,
+      "value": "新闻模块简介"
+    }
+  ],
+  "WP2k9L": [
+    {
+      "type": 0,
+      "value": "邀请会员"
+    }
+  ],
+  "WPeRyv": [
+    {
+      "type": 1,
+      "value": "points"
+    },
+    {
+      "type": 0,
+      "value": " 积分"
+    }
+  ],
+  "WY7Svf": [
+    {
+      "type": 0,
+      "value": "兑换记录"
+    }
+  ],
+  "WjYIo/": [
+    {
+      "type": 0,
+      "value": "数字经济"
+    }
+  ],
+  "WuPa6A": [
+    {
+      "type": 0,
+      "value": "添加标题图片 (option)"
+    }
+  ],
+  "XAlaBZ": [
+    {
+      "type": 0,
+      "value": "是"
+    }
+  ],
+  "XBpDlk": [
+    {
+      "type": 0,
+      "value": "草稿箱"
+    }
+  ],
+  "XFMrJk": [
+    {
+      "type": 0,
+      "value": "新闻"
+    }
+  ],
+  "XS5KNx": [
+    {
+      "type": 0,
+      "value": "请输入6-20位登陆密码！"
+    }
+  ],
+  "XZkvkp": [
+    {
+      "type": 0,
+      "value": "是否确定发布该案例？"
+    }
+  ],
+  "XhwWPm": [
+    {
+      "type": 0,
+      "value": "至少选择一个选项"
+    }
+  ],
+  "XoqXeg": [
+    {
+      "type": 0,
+      "value": "最新"
+    }
+  ],
+  "XzDbLK": [
+    {
+      "type": 0,
+      "value": "公共卫生是关系到一国或一个地区人民大众健康的公共事业。公共卫生具体包括对重大疾病尤其是传染病（如结核、艾滋病、SARS、新冠肺炎等）的预防、监控和治疗；对食品、药品、公共环境卫生的监督管制，以及相关的卫生宣传、健康教育、免疫接种等。公共卫生文化是公共卫生领域信奉并付诸实践的价值理念。"
+    }
+  ],
+  "Y1BDeL": [
+    {
+      "type": 0,
+      "value": "活动"
+    }
+  ],
+  "Y50AqW": [
+    {
+      "type": 0,
+      "value": "展览"
+    }
+  ],
+  "YMioUv": [
+    {
+      "type": 0,
+      "value": "删除"
+    }
+  ],
+  "YVV4gz": [
+    {
+      "type": 0,
+      "value": "请重新尝试！"
+    }
+  ],
+  "YXywPg": [
+    {
+      "type": 0,
+      "value": "您发表的回答未通过审核。"
+    }
+  ],
+  "YbrvIS": [
+    {
+      "type": 0,
+      "value": "Points Record"
+    }
+  ],
+  "YeRipv": [
+    {
+      "type": 0,
+      "value": "该案例已提交审核！可前往个人中心-审核记录查看审核进度。"
+    }
+  ],
+  "Z1av4+": [
+    {
+      "type": 0,
+      "value": "完善信息"
+    }
+  ],
+  "ZMFNko": [
+    {
+      "type": 0,
+      "value": "前选择结束时间"
+    }
+  ],
+  "ZOmoXH": [
+    {
+      "type": 0,
+      "value": "积分记录模块简介"
+    }
+  ],
+  "ZPnZQg": [
+    {
+      "type": 0,
+      "value": "视频"
+    }
+  ],
+  "ZZ07Yy": [
+    {
+      "type": 0,
+      "value": "智能合约"
+    }
+  ],
+  "ZgrJQv": [
+    {
+      "type": 0,
+      "value": "关注的人"
+    }
+  ],
+  "Znla7y": [
+    {
+      "type": 0,
+      "value": "倒计时"
+    }
+  ],
+  "ZpORaa": [
+    {
+      "type": 0,
+      "value": "评论"
+    }
+  ],
+  "aH4Iim": [
+    {
+      "type": 0,
+      "value": "参与投票"
+    }
+  ],
+  "aKAHvO": [
+    {
+      "type": 0,
+      "value": "2次输入的密码不一致"
+    }
+  ],
+  "aMK4IL": [
+    {
+      "type": 0,
+      "value": "回复成功"
+    }
+  ],
+  "aNbV5j": [
+    {
+      "type": 0,
+      "value": "城市"
+    }
+  ],
+  "aWgtau": [
+    {
+      "type": 0,
+      "value": "搜索结果"
+    }
+  ],
+  "ahKD8r": [
+    {
+      "type": 0,
+      "value": "返回"
+    }
+  ],
+  "bWKSAT": [
+    {
+      "type": 0,
+      "value": "您发表的回答"
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": "未通过审核（原因："
+    },
+    {
+      "type": 1,
+      "value": "reason"
+    },
+    {
+      "type": 0,
+      "value": "）。"
+    }
+  ],
+  "bZJziV": [
+    {
+      "type": 0,
+      "value": "打赏"
+    }
+  ],
+  "bgNCGF": [
+    {
+      "type": 0,
+      "value": "生命健康话题简介"
+    }
+  ],
+  "boHq5d": [
+    {
+      "type": 0,
+      "value": "您发布的提问未通过审核。"
+    }
+  ],
+  "bt7oaa": [
+    {
+      "type": 0,
+      "value": "请输入"
+    },
+    {
+      "type": 1,
+      "value": "name"
+    },
+    {
+      "type": 0,
+      "value": " "
+    }
+  ],
+  "c3ukAd": [
+    {
+      "type": 0,
+      "value": "请输入会议链接"
+    }
+  ],
+  "cSj8/I": [
+    {
+      "type": 0,
+      "value": "发布活动"
+    }
+  ],
+  "cbCDwI": [
+    {
+      "type": 0,
+      "value": "已订阅"
+    }
+  ],
+  "cjTtqw": [
+    {
+      "type": 0,
+      "value": "兑换明细"
+    }
+  ],
+  "coO3UG": [
+    {
+      "type": 0,
+      "value": "E-mail"
+    }
+  ],
+  "cpXAa+": [
+    {
+      "type": 0,
+      "value": "话题"
+    }
+  ],
+  "dLdIwm": [
+    {
+      "type": 0,
+      "value": "编辑案例"
+    }
+  ],
+  "dgMZom": [
+    {
+      "type": 0,
+      "value": "发布人："
+    }
+  ],
+  "dvL6Ql": [
+    {
+      "type": 0,
+      "value": "报名"
+    }
+  ],
+  "e/iUkv": [
+    {
+      "type": 0,
+      "value": "推荐活动"
+    }
+  ],
+  "e1uhfI": [
+    {
+      "type": 0,
+      "value": "您已报名！"
+    }
+  ],
+  "e3/VWi": [
+    {
+      "type": 0,
+      "value": "第5天"
+    }
+  ],
+  "eA68Lu": [
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": " 投票"
+    }
+  ],
+  "eDSZSV": [
+    {
+      "type": 0,
+      "value": "发布活动"
+    }
+  ],
+  "ejEGdx": [
+    {
+      "type": 0,
+      "value": "主页"
+    }
+  ],
+  "emPfnC": [
+    {
+      "type": 0,
+      "value": "发布提问"
+    }
+  ],
+  "eq/tgL": [
+    {
+      "type": 0,
+      "value": "消息提醒"
+    }
+  ],
+  "euBKc7": [
+    {
+      "type": 0,
+      "value": "收藏"
+    }
+  ],
+  "f04HAc": [
+    {
+      "type": 0,
+      "value": "密码"
+    }
+  ],
+  "f3hb7A": [
+    {
+      "type": 0,
+      "value": "职位"
+    }
+  ],
+  "f61rQO": [
+    {
+      "type": 0,
+      "value": "您发表的活动《"
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": "》未通过审核（原因："
+    },
+    {
+      "type": 1,
+      "value": "reason"
+    },
+    {
+      "type": 0,
+      "value": "）。"
+    }
+  ],
+  "f9Gl7o": [
+    {
+      "type": 0,
+      "value": "确认新密码"
+    }
+  ],
+  "fOge9r": [
+    {
+      "type": 0,
+      "value": "第2天"
+    }
+  ],
+  "fW1MmE": [
+    {
+      "type": 0,
+      "value": "打赏成功！"
+    }
+  ],
+  "fah9Rf": [
+    {
+      "type": 0,
+      "value": "订阅"
+    }
+  ],
+  "feDpNJ": [
+    {
+      "type": 0,
+      "value": "请简洁地描述问题"
+    }
+  ],
+  "ff89wZ": [
+    {
+      "type": 0,
+      "value": "您发起的投票《"
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": "》未通过审核（原因："
+    },
+    {
+      "type": 1,
+      "value": "reason"
+    },
+    {
+      "type": 0,
+      "value": "）。"
+    }
+  ],
+  "fi84qV": [
+    {
+      "type": 0,
+      "value": "评论成功"
+    }
+  ],
+  "fo6ezr": [
+    {
+      "type": 0,
+      "value": "保存时间"
+    }
+  ],
+  "fz8CEm": [
+    {
+      "type": 0,
+      "value": "参与形式"
+    }
+  ],
+  "g5pX+a": [
+    {
+      "type": 0,
+      "value": "关于"
+    }
+  ],
+  "gDkDBW": [
+    {
+      "type": 0,
+      "value": "您发表的评论"
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": "未通过审核（原因："
+    },
+    {
+      "type": 1,
+      "value": "reason"
+    },
+    {
+      "type": 0,
+      "value": "）。"
+    }
+  ],
+  "gF4FjN": [
+    {
+      "type": 0,
+      "value": "是"
+    }
+  ],
+  "gUPNoY": [
+    {
+      "type": 0,
+      "value": "合约列表"
+    }
+  ],
+  "gy+Cn4": [
+    {
+      "type": 0,
+      "value": "邀请会员"
+    }
+  ],
+  "h2VtQx": [
+    {
+      "type": 0,
+      "value": "删除"
+    }
+  ],
+  "h2vrEp": [
+    {
+      "type": 0,
+      "value": "请先登录！"
+    }
+  ],
+  "h9mLFn": [
+    {
+      "type": 0,
+      "value": "是"
+    }
+  ],
+  "hGuz+U": [
+    {
+      "type": 0,
+      "value": "你发布的问题《"
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": "》未通过审核（原因："
+    },
+    {
+      "type": 1,
+      "value": "reason"
+    },
+    {
+      "type": 0,
+      "value": "）。"
+    }
+  ],
+  "hJyU0m": [
+    {
+      "type": 0,
+      "value": "智慧交通"
+    }
+  ],
+  "hKJYKO": [
+    {
+      "type": 0,
+      "value": "绿色发展是以效率、和谐、持续为目标的经济增长和社会发展方式。绿色发展的理念：绿色发展理念以人与自然和谐为价值取向，以绿色低碳循环为主要原则，以生态文明建设为基本抓手。当今世界，绿色发展已经成为一个重要趋势，许多国家把发展绿色产业作为推动经济结构调整的重要举措，突出绿色的理念和内涵。"
+    }
+  ],
+  "hSU/Z5": [
+    {
+      "type": 0,
+      "value": "兑换"
+    }
+  ],
+  "hhONdD": [
+    {
+      "type": 0,
+      "value": "问题"
+    }
+  ],
+  "hsuziH": [
+    {
+      "type": 0,
+      "value": "信息"
+    }
+  ],
+  "hvGpo9": [
+    {
+      "type": 0,
+      "value": "全部"
+    }
+  ],
+  "hzPTvE": [
+    {
+      "type": 0,
+      "value": "国家"
+    }
+  ],
+  "iF99A8": [
+    {
+      "type": 0,
+      "value": "类型"
+    }
+  ],
+  "iHeDoC": [
+    {
+      "type": 0,
+      "value": "提交"
+    }
+  ],
+  "iHxAN/": [
+    {
+      "type": 0,
+      "value": "邀请您的朋友加入T20绿色智慧城市网络。每成功邀请一位会员，您将获得100积分。"
+    }
+  ],
+  "iSW+6p": [
+    {
+      "type": 0,
+      "value": "审核记录"
+    }
+  ],
+  "ibaVwR": [
+    {
+      "type": 0,
+      "value": "该活动已提交审核！可前往个人中心-审核记录查看审核进度。"
+    }
+  ],
+  "ig+urm": [
+    {
+      "type": 0,
+      "value": "文本"
+    }
+  ],
+  "iu1gZm": [
+    {
+      "type": 0,
+      "value": "兑换成功！"
+    }
+  ],
+  "iyl2Gd": [
+    {
+      "type": 0,
+      "value": "是"
+    }
+  ],
+  "iysSkB": [
+    {
+      "type": 0,
+      "value": "新闻"
+    }
+  ],
+  "izGFIV": [
+    {
+      "type": 0,
+      "value": "信息"
+    }
+  ],
+  "j2lbtw": [
+    {
+      "type": 0,
+      "value": "投票成功！"
+    }
+  ],
+  "j843Fz": [
+    {
+      "type": 0,
+      "value": "是"
+    }
+  ],
+  "jNBm5W": [
+    {
+      "type": 0,
+      "value": "是否确认删除该活动？"
+    }
+  ],
+  "jOZcH+": [
+    {
+      "type": 0,
+      "value": "请输入登录邮箱！"
+    }
+  ],
+  "jQ4f+/": [
+    {
+      "type": 0,
+      "value": "暂无视频内容"
+    }
+  ],
+  "jR2//o": [
+    {
+      "type": 0,
+      "value": "全部"
+    }
+  ],
+  "jVcerI": [
+    {
+      "type": 0,
+      "value": "活动编辑成功"
+    }
+  ],
+  "jdSR/h": [
+    {
+      "type": 1,
+      "value": "followerCount"
+    },
+    {
+      "type": 0,
+      "value": " 关注者, "
+    },
+    {
+      "type": 1,
+      "value": "newsCount"
+    },
+    {
+      "type": 0,
+      "value": " 新闻"
+    }
+  ],
+  "jvK9a9": [
+    {
+      "type": 0,
+      "value": "用户名或登录密码错误"
+    }
+  ],
+  "kAf+MO": [
+    {
+      "type": 0,
+      "value": "取消"
+    }
+  ],
+  "kW55pq": [
+    {
+      "type": 0,
+      "value": "类型"
+    }
+  ],
+  "kWBmzP": [
+    {
+      "type": 0,
+      "value": "数字货币"
+    }
+  ],
+  "kZFYVr": [
+    {
+      "type": 0,
+      "value": "提交"
+    }
+  ],
+  "kdskLe": [
+    {
+      "type": 0,
+      "value": "使用"
+    }
+  ],
+  "klrQoM": [
+    {
+      "type": 0,
+      "value": "请先登录！"
+    }
+  ],
+  "knFDSS": [
+    {
+      "type": 0,
+      "value": "登录"
+    }
+  ],
+  "ktQCow": [
+    {
+      "type": 0,
+      "value": "您发起的投票《"
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": "》已通过审核。"
+    }
+  ],
+  "kv4sBt": [
+    {
+      "type": 0,
+      "value": "单选"
+    }
+  ],
+  "l/NeJY": [
+    {
+      "type": 0,
+      "value": "第3天"
+    }
+  ],
+  "l00O0V": [
+    {
+      "type": 1,
+      "value": "viewCount"
+    },
+    {
+      "type": 0,
+      "value": " 浏览"
+    }
+  ],
+  "lQZMTu": [
+    {
+      "type": 0,
+      "value": "是否确定发布该投票？"
+    }
+  ],
+  "lTtBoq": [
+    {
+      "type": 0,
+      "value": "审核记录模块描述"
+    }
+  ],
+  "lVboKy": [
+    {
+      "type": 0,
+      "value": "活动"
+    }
+  ],
+  "mf980N": [
+    {
+      "type": 0,
+      "value": "审核记录"
+    }
+  ],
+  "muATtO": [
+    {
+      "type": 0,
+      "value": "登录"
+    }
+  ],
+  "n/QNoJ": [
+    {
+      "type": 0,
+      "value": "城市治理板块涉及城市定位、城市规划、城市可持续发展等问题，主要是处理城市发展的各种要素。提高城市治理水平，旨在构建科学合理的体制机制，做到城市治理彰显情感温度、提升治理效能、凝聚治理合力，不断增强市民的获得感、幸福感、安全感，让城市生活更加美好。"
+    }
+  ],
+  "n9gxvT": [
+    {
+      "type": 0,
+      "value": "展览"
+    }
+  ],
+  "nA8331": [
+    {
+      "type": 0,
+      "value": "国家"
+    }
+  ],
+  "nCI7ah": [
+    {
+      "type": 0,
+      "value": "退出登录"
+    }
+  ],
+  "nPD/Px": [
+    {
+      "type": 0,
+      "value": "否"
+    }
+  ],
+  "nQU/Qx": [
+    {
+      "type": 0,
+      "value": "您发布的活动未通过审核。"
+    }
+  ],
+  "nYRhUK": [
+    {
+      "type": 0,
+      "value": "您发布的问题已通过审核。"
+    }
+  ],
+  "nk6+jJ": [
+    {
+      "type": 0,
+      "value": "发布于"
+    }
+  ],
+  "oPfQOD": [
+    {
+      "type": 0,
+      "value": "登录"
+    }
+  ],
+  "oRuuVo": [
+    {
+      "type": 0,
+      "value": "提问"
+    }
+  ],
+  "oZC7UB": [
+    {
+      "type": 0,
+      "value": "关注"
+    }
+  ],
+  "ooJM5Z": [
+    {
+      "type": 0,
+      "value": "您已连续登录"
+    },
+    {
+      "type": 1,
+      "value": "days"
+    },
+    {
+      "type": 0,
+      "value": "天！"
+    }
+  ],
+  "opME9d": [
+    {
+      "type": 0,
+      "value": "兑换时间"
+    }
+  ],
+  "ox4gVX": [
+    {
+      "type": 0,
+      "value": "案例"
+    }
+  ],
+  "pX0ZpT": [
+    {
+      "type": 0,
+      "value": "会议"
+    }
+  ],
+  "peyk1q": [
+    {
+      "type": 0,
+      "value": "回答"
+    }
+  ],
+  "pj5Bnd": [
+    {
+      "type": 0,
+      "value": "否"
+    }
+  ],
+  "psu+iV": [
+    {
+      "type": 0,
+      "value": "案例《"
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": "》已通过审核"
+    }
+  ],
+  "pxA3Qv": [
+    {
+      "type": 0,
+      "value": "线下"
+    }
+  ],
+  "q91ENy": [
+    {
+      "type": 0,
+      "value": "积分兑换记录模块简介"
+    }
+  ],
+  "qPXqUH": [
+    {
+      "type": 0,
+      "value": "评论"
+    }
+  ],
+  "qih3Pd": [
+    {
+      "type": 0,
+      "value": "可用积分"
+    }
+  ],
+  "qvACLV": [
+    {
+      "type": 0,
+      "value": "活动"
+    }
+  ],
+  "qw+eHo": [
+    {
+      "type": 0,
+      "value": "操作"
+    }
+  ],
+  "qxr466": [
+    {
+      "type": 0,
+      "value": "成功保存到草稿箱"
+    }
+  ],
+  "rBnTJB": [
+    {
+      "type": 0,
+      "value": "创建账号"
+    }
+  ],
+  "rC17Va": [
+    {
+      "type": 0,
+      "value": "创新型经济，体现资源节约和环境友好的要求，是以知识和人才作为依托，以创新为主要的驱动力，以发展拥有自主知识产权新技术和新产品为着力点，以创新产业作为标志的经济，现在谈经济转型升级。转型最重要的就是增长方式转型，发展创新型经济实现经济转型，主要靠物质投入的推动转向创新要素驱动。这个创新型经济有三个特征，一是以创新知识密集产业和绿色技术产业作为标志，科技创新和产业创新互动结合，第三知识创新为主体，也就是大学、科研机构同技术创新主体紧密合作。"
+    }
+  ],
+  "rHkEPq": [
+    {
+      "type": 0,
+      "value": "新闻"
+    }
+  ],
+  "rOT9+3": [
+    {
+      "type": 0,
+      "value": "城市"
+    }
+  ],
+  "rR5455": [
+    {
+      "type": 0,
+      "value": "注册"
+    }
+  ],
+  "rUrnFL": [
+    {
+      "type": 0,
+      "value": "发起投票"
+    }
+  ],
+  "rczn0I": [
+    {
+      "type": 0,
+      "value": "上传文件"
+    }
+  ],
+  "rqEWiM": [
+    {
+      "type": 0,
+      "value": "请输入正确的邮箱！"
+    }
+  ],
+  "sIfISv": [
+    {
+      "type": 0,
+      "value": "添加图片"
+    }
+  ],
+  "sMCOhc": [
+    {
+      "type": 0,
+      "value": "暂无活动内容"
+    }
+  ],
+  "sWsgjy": [
+    {
+      "type": 0,
+      "value": "您发布的案例已通过审核。"
+    }
+  ],
+  "sqTicM": [
+    {
+      "type": 0,
+      "value": "绿色发展"
+    }
+  ],
+  "syl4qr": [
+    {
+      "type": 0,
+      "value": "新闻"
+    }
+  ],
+  "t3kCHB": [
+    {
+      "type": 0,
+      "value": "问题"
+    }
+  ],
+  "tG1oVY": [
+    {
+      "type": 0,
+      "value": "15积分"
+    }
+  ],
+  "tIU7Cr": [
+    {
+      "type": 0,
+      "value": "请输入标题"
+    }
+  ],
+  "tSV/6A": [
+    {
+      "type": 0,
+      "value": "请输入标题"
+    }
+  ],
+  "tUYo5C": [
+    {
+      "type": 0,
+      "value": "案例"
+    }
+  ],
+  "tUpmXD": [
+    {
+      "type": 0,
+      "value": "对"
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": "的邀请已通过审核。"
+    }
+  ],
+  "tVWN+t": [
+    {
+      "type": 0,
+      "value": "推荐新闻"
+    }
+  ],
+  "taZjKq": [
+    {
+      "type": 0,
+      "value": "选项类型"
+    }
+  ],
+  "tcWfGB": [
+    {
+      "type": 0,
+      "value": "姓"
+    }
+  ],
+  "tl5Cai": [
+    {
+      "type": 0,
+      "value": "支持文件格式：.rar .zip .doc .docx .pdf. 。最大文件：100M。"
+    }
+  ],
+  "u0sjy8": [
+    {
+      "type": 0,
+      "value": "支持格式：.mp4。最大文件大小：500M."
+    }
+  ],
+  "u7HyiE": [
+    {
+      "type": 0,
+      "value": "话题"
+    }
+  ],
+  "uNbhbG": [
+    {
+      "type": 0,
+      "value": "您发布的活动已提交审核。"
+    }
+  ],
+  "uXsoa0": [
+    {
+      "type": 0,
+      "value": "您已成功报名 "
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "uYVsQi": [
+    {
+      "type": 0,
+      "value": "更多"
+    }
+  ],
+  "uyNaN2": [
+    {
+      "type": 0,
+      "value": "通过审核"
+    }
+  ],
+  "vAVAFg": [
+    {
+      "type": 0,
+      "value": "已关注"
+    }
+  ],
+  "vcUTVe": [
+    {
+      "type": 0,
+      "value": "会议"
+    }
+  ],
+  "vsYxdC": [
+    {
+      "type": 0,
+      "value": "数字经济板块涵盖包括大数据、云计算、物联网、区块链、人工智能、5G 通信/“新零售”、“新制造”等新兴技术的场景应用，是推动生产力发展的新型经济形态。"
+    }
+  ],
+  "wKMI45": [
+    {
+      "type": 0,
+      "value": "普通用户"
+    }
+  ],
+  "wKdUrQ": [
+    {
+      "type": 0,
+      "value": "请输入密码！"
+    }
+  ],
+  "wQxWlR": [
+    {
+      "type": 0,
+      "value": "发表案例"
+    }
+  ],
+  "wZMV8E": [
+    {
+      "type": 0,
+      "value": "删除成功！"
+    }
+  ],
+  "ws86Eq": [
+    {
+      "type": 0,
+      "value": "取消"
+    }
+  ],
+  "x4XiQU": [
+    {
+      "type": 0,
+      "value": "数字经济话题简介"
+    }
+  ],
+  "xC5bce": [
+    {
+      "type": 0,
+      "value": "已订阅"
+    }
+  ],
+  "xD6DeW": [
+    {
+      "type": 0,
+      "value": "支持文件格式：.rar .zip .doc .docx .pdf. 。最大文件：100M。"
+    }
+  ],
+  "xMdFQP": [
+    {
+      "type": 0,
+      "value": "编辑个人简介"
+    }
+  ],
+  "xO62v4": [
+    {
+      "type": 0,
+      "value": "图片"
+    }
+  ],
+  "xSC+lB": [
+    {
+      "type": 0,
+      "value": "输入选项内容"
+    }
+  ],
+  "xUeNos": [
+    {
+      "type": 0,
+      "value": "多边合作就是指多个国家或地区的合作。多边合作是当今国际关系发展的大趋势，哥本哈根会议更使世界各国对多边合作有了新的理解和认识，与之相适应。我国将进一步深化和拓宽与国际组织、区域组织和各国在环境保护方面的合作，推进互利共赢，积极履行国际环境公约规定的义务，积极参加全球治理体系规则的构建，包括自贸协定和环境产品清单等相关的谈判，共同推进区域和全球问题的解决。"
+    }
+  ],
+  "xVSr6B": [
+    {
+      "type": 0,
+      "value": "积分商城"
+    }
+  ],
+  "xhPP3M": [
+    {
+      "type": 0,
+      "value": "请选择开始时间"
+    }
+  ],
+  "xn+6yi": [
+    {
+      "type": 0,
+      "value": "粉丝"
+    }
+  ],
+  "xtu5op": [
+    {
+      "type": 0,
+      "value": "活动"
+    }
+  ],
+  "xw3eEU": [
+    {
+      "type": 0,
+      "value": "否"
+    }
+  ],
+  "y/ba2O": [
+    {
+      "type": 0,
+      "value": "城市治理是指从广义的角度上是一种城市地域空间治理的概念，为了谋求城市经济、社会、生态等方面的可持续发展，对城市中的资本、土地、劳动力、技术、信息、知识等生产要素进行整合，实现整体地域的协调发展。狭义的城市治理是指城市范围内政府、私营部门、非营利组织作为三中主要的组织型态组成相互依赖的多主体治理网络，在平等的基础上按照参与、沟通、协商、合作的治理机制，在解决城市公共问题、提供城市公共服务、增进城市公共利益的过程中相互合作的利益整合过程。"
+    }
+  ],
+  "yBstyl": [
+    {
+      "type": 0,
+      "value": "结束时间"
+    }
+  ],
+  "yE6s/M": [
+    {
+      "type": 0,
+      "value": "T20 Inno Space"
+    }
+  ],
+  "yTmt+9": [
+    {
+      "type": 0,
+      "value": "是否确定删除该案例？"
+    }
+  ],
+  "yU8q46": [
+    {
+      "type": 0,
+      "value": "添加活动logo"
+    }
+  ],
+  "yWk8Xi": [
+    {
+      "type": 0,
+      "value": "第4天"
+    }
+  ],
+  "yiz+l8": [
+    {
+      "type": 0,
+      "value": "视频"
+    }
+  ],
+  "z4gPin": [
+    {
+      "type": 0,
+      "value": "提问"
+    }
+  ],
+  "zRs2hX": [
+    {
+      "type": 0,
+      "value": "操作"
+    }
+  ],
+  "zbzYD3": [
+    {
+      "type": 0,
+      "value": "请选择感兴趣的话题"
+    }
+  ],
+  "zcCswq": [
+    {
+      "type": 0,
+      "value": "内容"
+    }
+  ],
+  "zi/Z3R": [
+    {
+      "type": 0,
+      "value": "智能制造板块关注新一代信息技术与先进制造技术的深度融合，包括数字化、网络化和智能化等的共性使能技术。智能制造涉及产品设计、生产、物流、服务等价值链各环节，有利于打造新的国际竞争优势。"
+    }
+  ],
+  "zrxfKV": [
+    {
+      "type": 0,
+      "value": "欢迎"
+    }
+  ],
+  "zzkgLR": [
+    {
+      "type": 0,
+      "value": "该问题已提交审核！可前往个人中心-审核记录查看审核进度。"
+    }
+  ]
+}

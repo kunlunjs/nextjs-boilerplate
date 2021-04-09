@@ -41,7 +41,6 @@ yarn start
 - [环境变量配置](docs/环境变量配置.md)
 - [集成tailwindcss](docs/集成tailwindcss.md)
 - [集成Antd](docs/集成antd.md)
-  - [从iconfont.cn生成图标组件](docs/集成antd.md)
 - [国际化配置](docs/国际化配置.md)
 - [服务端渲染](docs/服务端渲染.md)
 - [如何避免服务端渲染](docs/如何避免服务端渲染.md)
